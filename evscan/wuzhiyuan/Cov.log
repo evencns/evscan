@@ -1,0 +1,4459 @@
+Port A can be connect!
+Port B can be connect!
+Port C can be connect!
+Port D can be connect!
+Port E can be connect!
+new.txt is not output
+Config.sh not output
+ipstatic.txt is not output
+stHopNum[0] = A
+stHopNum[1] = B
+stHopNum[2] = C
+stHopNum[3] = D
+stHopNum[4] = E
+GE0/0/1.100  192.168.38.197  
+out_1GE0/0/1.200  192.168.38.181  
+out_2GE0/0/1.300  192.168.38.197  
+out_3GE0/0/1.400  192.168.38.181  
+out_4GE0/0/1.500  192.168.38.197  
+out_5GE0/0/1.900  192.168.38.233  
+out_default0.0.0.0
+uiAddress = 0 
+1.0.0.0
+uiAddress = 1000000 
+121.18.213.224
+uiAddress = 7912d5e0 
+121.18.213.33
+uiAddress = 7912d521 
+211.99.216.0
+uiAddress = d363d800 
+MySQL Tables in mysql database:
+MySQL Tables in mysql database:
+MySQL Tables in mysql database:
+MySQL Tables in mysql database:
+MySQL Tables in mysql database:
+I have use 20.000000 seconds to coverge the list!
+After Coverge ,the total table is:59200
+now begin to compare
+now put new config.sh
+now rename the new.txt to old.txt
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 10 09:46:09 CST 2013 Port A can be connect!
+Wed Apr 10 09:46:09 CST 2013 Port B can be connect!
+Wed Apr 10 09:46:09 CST 2013 Port C can be connect!
+Wed Apr 10 09:46:09 CST 2013 Port D can be connect!
+Wed Apr 10 09:46:09 CST 2013 Port E can be connect!
+Wed Apr 10 09:46:09 CST 2013 new.txt is not output
+Wed Apr 10 09:46:09 CST 2013 Config.sh not output
+Wed Apr 10 09:46:09 CST 2013 ipstatic.txt is not output
+Wed Apr 10 09:46:10 2013
+        The 0th port is A!
+Wed Apr 10 09:46:10 2013
+        The 1th port is B!
+Wed Apr 10 09:46:10 2013
+        The 2th port is C!
+Wed Apr 10 09:46:10 2013
+        The 3th port is D!
+Wed Apr 10 09:46:10 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 10 09:46:10 2013
+        The 0.0.0.0 is reserved Address!
+Wed Apr 10 09:46:10 2013
+        The 1.0.0.0 is reserved Address!
+Wed Apr 10 09:46:10 2013
+        The 121.18.213.224 is reserved Address!
+Wed Apr 10 09:46:10 2013
+        The 121.18.213.33 is reserved Address!
+Wed Apr 10 09:46:10 2013
+        The 211.99.216.0 is reserved Address!
+Wed Apr 10 09:46:10 2013
+        Begin to insert IP Address !
+Wed Apr 10 09:46:10 2013
+        Begin to query A's data in database!
+Wed Apr 10 09:46:10 2013
+        Begin to query B's data in database!
+Wed Apr 10 09:46:10 2013
+        Begin to query C's data in database!
+Wed Apr 10 09:46:10 2013
+        Begin to query D's data in database!
+Wed Apr 10 09:46:10 2013
+        Begin to query E's data in database!
+Wed Apr 10 09:46:10 2013
+        Begin to Coverge the IP Address !
+Wed Apr 10 09:46:10 2013
+        I have use 20.000000 seconds to coverge the list!
+Wed Apr 10 09:46:10 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Wed Apr 10 09:46:10 2013
+        Coverge success ! ,the total table is:54096
+Wed Apr 10 09:46:40 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 10 09:46:40 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Wed Apr 10 09:46:40 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Wed Apr 10 09:46:40 2013
+ Begin to Compare the old and new data !
+Wed Apr 10 09:46:40 2013
+ New config.sh has been Created successfully!
+Wed Apr 10 09:46:40 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 10 14:13:36 CST 2013 Port A can be connect!
+Wed Apr 10 14:13:36 CST 2013 Port B can be connect!
+Wed Apr 10 14:13:36 CST 2013 Port C can be connect!
+Wed Apr 10 14:13:36 CST 2013 Port D can be connect!
+Wed Apr 10 14:13:36 CST 2013 Port E can be connect!
+Wed Apr 10 14:13:36 CST 2013 new.txt is not output
+Wed Apr 10 14:13:36 CST 2013 Config.sh not output
+Wed Apr 10 14:13:36 CST 2013 ipstatic.txt is not output
+Wed Apr 10 14:13:37 2013
+        The 0th port is A!
+Wed Apr 10 14:13:37 2013
+        The 1th port is B!
+Wed Apr 10 14:13:37 2013
+        The 2th port is C!
+Wed Apr 10 14:13:37 2013
+        The 3th port is D!
+Wed Apr 10 14:13:37 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 10 14:13:37 2013
+        The 0.0.0.0 is reserved Address!
+Wed Apr 10 14:13:37 2013
+        The 1.0.0.0 is reserved Address!
+Wed Apr 10 14:13:37 2013
+        The 121.18.213.224 is reserved Address!
+Wed Apr 10 14:13:37 2013
+        The 121.18.213.33 is reserved Address!
+Wed Apr 10 14:13:37 2013
+        The 211.99.216.0 is reserved Address!
+Wed Apr 10 14:13:37 2013
+        Begin to insert IP Address !
+Wed Apr 10 14:13:37 2013
+        Begin to query A's data in database!
+Wed Apr 10 14:13:37 2013
+        Begin to query B's data in database!
+Wed Apr 10 14:13:37 2013
+        Begin to query C's data in database!
+Wed Apr 10 14:13:37 2013
+        Begin to query D's data in database!
+Wed Apr 10 14:13:37 2013
+        Begin to query E's data in database!
+Wed Apr 10 14:13:37 2013
+        Begin to Coverge the IP Address !
+Wed Apr 10 14:13:37 2013
+        I have use 30.000000 seconds to coverge the list!
+Wed Apr 10 14:13:37 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Wed Apr 10 14:13:37 2013
+        Coverge success ! ,the total table is:66324
+Wed Apr 10 14:14:15 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 10 14:14:15 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Wed Apr 10 14:14:15 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Wed Apr 10 14:14:15 2013
+ Begin to Compare the old and new data !
+Wed Apr 10 14:14:15 2013
+ New config.sh has been Created successfully!
+Wed Apr 10 14:14:15 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 10 17:10:58 CST 2013 Port A can be connect!
+Wed Apr 10 17:10:58 CST 2013 Port B can be connect!
+Wed Apr 10 17:10:58 CST 2013 Port C can be connect!
+Wed Apr 10 17:10:58 CST 2013 Port D can be connect!
+Wed Apr 10 17:10:58 CST 2013 Port E can be connect!
+Wed Apr 10 17:10:58 CST 2013 new.txt is not output
+Wed Apr 10 17:10:58 CST 2013 Config.sh not output
+Wed Apr 10 17:10:58 CST 2013 ipstatic.txt is not output
+Wed Apr 10 17:10:59 2013
+        The 0th port is A!
+Wed Apr 10 17:10:59 2013
+        The 1th port is B!
+Wed Apr 10 17:10:59 2013
+        The 2th port is C!
+Wed Apr 10 17:10:59 2013
+        The 3th port is D!
+Wed Apr 10 17:10:59 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 10 17:10:59 2013
+        The 0.0.0.0 is reserved Address!
+Wed Apr 10 17:10:59 2013
+        The 1.0.0.0 is reserved Address!
+Wed Apr 10 17:10:59 2013
+        The 121.18.213.224 is reserved Address!
+Wed Apr 10 17:10:59 2013
+        The 121.18.213.33 is reserved Address!
+Wed Apr 10 17:10:59 2013
+        The 211.99.216.0 is reserved Address!
+Wed Apr 10 17:10:59 2013
+        Begin to insert IP Address !
+Wed Apr 10 17:10:59 2013
+        Begin to query A's data in database!
+Wed Apr 10 17:10:59 2013
+        Begin to query B's data in database!
+Wed Apr 10 17:10:59 2013
+        Begin to query C's data in database!
+Wed Apr 10 17:10:59 2013
+        Begin to query D's data in database!
+Wed Apr 10 17:10:59 2013
+        Begin to query E's data in database!
+Wed Apr 10 17:10:59 2013
+        Begin to Coverge the IP Address !
+Wed Apr 10 17:10:59 2013
+        I have use 20.000000 seconds to coverge the list!
+Wed Apr 10 17:10:59 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Wed Apr 10 17:10:59 2013
+        Coverge success ! ,the total table is:63883
+Wed Apr 10 17:11:35 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 10 17:11:35 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Wed Apr 10 17:11:35 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Wed Apr 10 17:11:35 2013
+ Begin to Compare the old and new data !
+Wed Apr 10 17:11:35 2013
+ New config.sh has been Created successfully!
+Wed Apr 10 17:11:35 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 10 20:07:41 CST 2013 Port A can be connect!
+Wed Apr 10 20:07:41 CST 2013 Port B can be connect!
+Wed Apr 10 20:07:41 CST 2013 Port C can be connect!
+Wed Apr 10 20:07:41 CST 2013 Port D can be connect!
+Wed Apr 10 20:07:41 CST 2013 Port E can be connect!
+Wed Apr 10 20:07:41 CST 2013 new.txt is not output
+Wed Apr 10 20:07:41 CST 2013 Config.sh not output
+Wed Apr 10 20:07:41 CST 2013 ipstatic.txt is not output
+Wed Apr 10 20:07:42 2013
+        The 0th port is A!
+Wed Apr 10 20:07:42 2013
+        The 1th port is B!
+Wed Apr 10 20:07:42 2013
+        The 2th port is C!
+Wed Apr 10 20:07:42 2013
+        The 3th port is D!
+Wed Apr 10 20:07:42 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 10 20:07:42 2013
+        The 0.0.0.0 is reserved Address!
+Wed Apr 10 20:07:42 2013
+        The 1.0.0.0 is reserved Address!
+Wed Apr 10 20:07:42 2013
+        The 121.18.213.224 is reserved Address!
+Wed Apr 10 20:07:42 2013
+        The 121.18.213.33 is reserved Address!
+Wed Apr 10 20:07:42 2013
+        The 211.99.216.0 is reserved Address!
+Wed Apr 10 20:07:42 2013
+        Begin to insert IP Address !
+Wed Apr 10 20:07:42 2013
+        Begin to query A's data in database!
+Wed Apr 10 20:07:42 2013
+        Begin to query B's data in database!
+Wed Apr 10 20:07:42 2013
+        Begin to query C's data in database!
+Wed Apr 10 20:07:42 2013
+        Begin to query D's data in database!
+Wed Apr 10 20:07:42 2013
+        Begin to query E's data in database!
+Wed Apr 10 20:07:42 2013
+        Begin to Coverge the IP Address !
+Wed Apr 10 20:07:42 2013
+        I have use 30.000000 seconds to coverge the list!
+Wed Apr 10 20:07:42 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Wed Apr 10 20:07:42 2013
+        Coverge success ! ,the total table is:68552
+Wed Apr 10 20:08:18 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 10 20:08:18 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Wed Apr 10 20:08:18 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Wed Apr 10 20:08:18 2013
+ Begin to Compare the old and new data !
+Wed Apr 10 20:08:18 2013
+ New config.sh has been Created successfully!
+Wed Apr 10 20:08:18 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 10 23:03:13 CST 2013 Port A can be connect!
+Wed Apr 10 23:03:13 CST 2013 Port B can be connect!
+Wed Apr 10 23:03:13 CST 2013 Port C can be connect!
+Wed Apr 10 23:03:13 CST 2013 Port D can be connect!
+Wed Apr 10 23:03:13 CST 2013 Port E can be connect!
+Wed Apr 10 23:03:13 CST 2013 new.txt is not output
+Wed Apr 10 23:03:13 CST 2013 Config.sh not output
+Wed Apr 10 23:03:13 CST 2013 ipstatic.txt is not output
+Wed Apr 10 23:03:14 2013
+        The 0th port is A!
+Wed Apr 10 23:03:14 2013
+        The 1th port is B!
+Wed Apr 10 23:03:14 2013
+        The 2th port is C!
+Wed Apr 10 23:03:14 2013
+        The 3th port is D!
+Wed Apr 10 23:03:14 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 10 23:03:14 2013
+        The 0.0.0.0 is reserved Address!
+Wed Apr 10 23:03:14 2013
+        The 1.0.0.0 is reserved Address!
+Wed Apr 10 23:03:14 2013
+        The 121.18.213.224 is reserved Address!
+Wed Apr 10 23:03:14 2013
+        The 121.18.213.33 is reserved Address!
+Wed Apr 10 23:03:14 2013
+        The 211.99.216.0 is reserved Address!
+Wed Apr 10 23:03:14 2013
+        Begin to insert IP Address !
+Wed Apr 10 23:03:14 2013
+        Begin to query A's data in database!
+Wed Apr 10 23:03:14 2013
+        Begin to query B's data in database!
+Wed Apr 10 23:03:14 2013
+        Begin to query C's data in database!
+Wed Apr 10 23:03:14 2013
+        Begin to query D's data in database!
+Wed Apr 10 23:03:14 2013
+        Begin to query E's data in database!
+Wed Apr 10 23:03:14 2013
+        Begin to Coverge the IP Address !
+Wed Apr 10 23:03:14 2013
+        I have use 20.000000 seconds to coverge the list!
+Wed Apr 10 23:03:14 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Wed Apr 10 23:03:14 2013
+        Coverge success ! ,the total table is:67240
+Wed Apr 10 23:03:51 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 10 23:03:51 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Wed Apr 10 23:03:51 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Wed Apr 10 23:03:51 2013
+ Begin to Compare the old and new data !
+Wed Apr 10 23:03:51 2013
+ New config.sh has been Created successfully!
+Wed Apr 10 23:03:51 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 11 02:01:31 CST 2013 Port A can be connect!
+Thu Apr 11 02:01:31 CST 2013 Port B can be connect!
+Thu Apr 11 02:01:31 CST 2013 Port C can be connect!
+Thu Apr 11 02:01:31 CST 2013 Port D can be connect!
+Thu Apr 11 02:01:31 CST 2013 Port E can be connect!
+Thu Apr 11 02:01:31 CST 2013 new.txt is not output
+Thu Apr 11 02:01:31 CST 2013 Config.sh not output
+Thu Apr 11 02:01:31 CST 2013 ipstatic.txt is not output
+Thu Apr 11 02:01:32 2013
+        The 0th port is A!
+Thu Apr 11 02:01:32 2013
+        The 1th port is B!
+Thu Apr 11 02:01:32 2013
+        The 2th port is C!
+Thu Apr 11 02:01:32 2013
+        The 3th port is D!
+Thu Apr 11 02:01:32 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 11 02:01:32 2013
+        The 0.0.0.0 is reserved Address!
+Thu Apr 11 02:01:32 2013
+        The 1.0.0.0 is reserved Address!
+Thu Apr 11 02:01:32 2013
+        The 121.18.213.224 is reserved Address!
+Thu Apr 11 02:01:32 2013
+        The 121.18.213.33 is reserved Address!
+Thu Apr 11 02:01:32 2013
+        The 211.99.216.0 is reserved Address!
+Thu Apr 11 02:01:32 2013
+        Begin to insert IP Address !
+Thu Apr 11 02:01:32 2013
+        Begin to query A's data in database!
+Thu Apr 11 02:01:32 2013
+        Begin to query B's data in database!
+Thu Apr 11 02:01:32 2013
+        Begin to query C's data in database!
+Thu Apr 11 02:01:32 2013
+        Begin to query D's data in database!
+Thu Apr 11 02:01:32 2013
+        Begin to query E's data in database!
+Thu Apr 11 02:01:32 2013
+        Begin to Coverge the IP Address !
+Thu Apr 11 02:01:32 2013
+        I have use 20.000000 seconds to coverge the list!
+Thu Apr 11 02:01:32 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Thu Apr 11 02:01:32 2013
+        Coverge success ! ,the total table is:50451
+Thu Apr 11 02:01:53 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 11 02:01:53 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Thu Apr 11 02:01:53 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Thu Apr 11 02:01:53 2013
+ Begin to Compare the old and new data !
+Thu Apr 11 02:01:53 2013
+ New config.sh has been Created successfully!
+Thu Apr 11 02:01:53 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 11 05:27:14 CST 2013 Port A can be connect!
+Thu Apr 11 05:27:14 CST 2013 Port B can be connect!
+Thu Apr 11 05:27:14 CST 2013 Port C can be connect!
+Thu Apr 11 05:27:14 CST 2013 Port D can be connect!
+Thu Apr 11 05:27:14 CST 2013 Port E can be connect!
+Thu Apr 11 05:27:14 CST 2013 new.txt is not output
+Thu Apr 11 05:27:14 CST 2013 Config.sh not output
+Thu Apr 11 05:27:14 CST 2013 ipstatic.txt is not output
+Thu Apr 11 05:27:15 2013
+        The 0th port is A!
+Thu Apr 11 05:27:15 2013
+        The 1th port is B!
+Thu Apr 11 05:27:15 2013
+        The 2th port is C!
+Thu Apr 11 05:27:15 2013
+        The 3th port is D!
+Thu Apr 11 05:27:15 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 11 05:27:15 2013
+        The 0.0.0.0 is reserved Address!
+Thu Apr 11 05:27:15 2013
+        The 1.0.0.0 is reserved Address!
+Thu Apr 11 05:27:15 2013
+        The 121.18.213.224 is reserved Address!
+Thu Apr 11 05:27:15 2013
+        The 121.18.213.33 is reserved Address!
+Thu Apr 11 05:27:15 2013
+        The 211.99.216.0 is reserved Address!
+Thu Apr 11 05:27:15 2013
+        Begin to insert IP Address !
+Thu Apr 11 05:27:15 2013
+        Begin to query A's data in database!
+Thu Apr 11 05:27:15 2013
+        Begin to query B's data in database!
+Thu Apr 11 05:27:15 2013
+        Begin to query C's data in database!
+Thu Apr 11 05:27:15 2013
+        Begin to query D's data in database!
+Thu Apr 11 05:27:15 2013
+        Begin to query E's data in database!
+Thu Apr 11 05:27:15 2013
+        Begin to Coverge the IP Address !
+Thu Apr 11 05:27:15 2013
+        I have use 10.000000 seconds to coverge the list!
+Thu Apr 11 05:27:15 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Thu Apr 11 05:27:15 2013
+        Coverge success ! ,the total table is:44148
+Thu Apr 11 05:27:35 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 11 05:27:35 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Thu Apr 11 05:27:35 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Thu Apr 11 05:27:35 2013
+ Begin to Compare the old and new data !
+Thu Apr 11 05:27:35 2013
+ New config.sh has been Created successfully!
+Thu Apr 11 05:27:35 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 11 08:48:21 CST 2013 Port A can be connect!
+Thu Apr 11 08:48:21 CST 2013 Port B can be connect!
+Thu Apr 11 08:48:21 CST 2013 Port C can be connect!
+Thu Apr 11 08:48:21 CST 2013 Port D can be connect!
+Thu Apr 11 08:48:21 CST 2013 Port E can be connect!
+Thu Apr 11 08:48:21 CST 2013 new.txt is not output
+Thu Apr 11 08:48:21 CST 2013 Config.sh not output
+Thu Apr 11 08:48:21 CST 2013 ipstatic.txt is not output
+Thu Apr 11 08:48:22 2013
+        The 0th port is A!
+Thu Apr 11 08:48:22 2013
+        The 1th port is B!
+Thu Apr 11 08:48:22 2013
+        The 2th port is C!
+Thu Apr 11 08:48:22 2013
+        The 3th port is D!
+Thu Apr 11 08:48:22 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 11 08:48:22 2013
+        The 0.0.0.0 is reserved Address!
+Thu Apr 11 08:48:22 2013
+        The 1.0.0.0 is reserved Address!
+Thu Apr 11 08:48:22 2013
+        The 121.18.213.224 is reserved Address!
+Thu Apr 11 08:48:22 2013
+        The 121.18.213.33 is reserved Address!
+Thu Apr 11 08:48:22 2013
+        The 211.99.216.0 is reserved Address!
+Thu Apr 11 08:48:22 2013
+        Begin to insert IP Address !
+Thu Apr 11 08:48:22 2013
+        Begin to query A's data in database!
+Thu Apr 11 08:48:22 2013
+        Begin to query B's data in database!
+Thu Apr 11 08:48:22 2013
+        Begin to query C's data in database!
+Thu Apr 11 08:48:22 2013
+        Begin to query D's data in database!
+Thu Apr 11 08:48:22 2013
+        Begin to query E's data in database!
+Thu Apr 11 08:48:22 2013
+        Begin to Coverge the IP Address !
+Thu Apr 11 08:48:22 2013
+        I have use 20.000000 seconds to coverge the list!
+Thu Apr 11 08:48:22 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Thu Apr 11 08:48:22 2013
+        Coverge success ! ,the total table is:46914
+Thu Apr 11 08:48:44 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 11 08:48:44 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Thu Apr 11 08:48:44 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Thu Apr 11 08:48:44 2013
+ Begin to Compare the old and new data !
+Thu Apr 11 08:48:44 2013
+ New config.sh has been Created successfully!
+Thu Apr 11 08:48:44 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 11 11:37:51 CST 2013 Port A can be connect!
+Thu Apr 11 11:37:51 CST 2013 Port B can be connect!
+Thu Apr 11 11:37:51 CST 2013 Port C can be connect!
+Thu Apr 11 11:37:51 CST 2013 Port D can be connect!
+Thu Apr 11 11:37:51 CST 2013 Port E can be connect!
+Thu Apr 11 11:37:51 CST 2013 new.txt is not output
+Thu Apr 11 11:37:51 CST 2013 Config.sh not output
+Thu Apr 11 11:37:51 CST 2013 ipstatic.txt is not output
+Thu Apr 11 11:37:52 2013
+        The 0th port is A!
+Thu Apr 11 11:37:52 2013
+        The 1th port is B!
+Thu Apr 11 11:37:52 2013
+        The 2th port is C!
+Thu Apr 11 11:37:52 2013
+        The 3th port is D!
+Thu Apr 11 11:37:52 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 11 11:37:52 2013
+        The 0.0.0.0 is reserved Address!
+Thu Apr 11 11:37:52 2013
+        The 1.0.0.0 is reserved Address!
+Thu Apr 11 11:37:52 2013
+        The 121.18.213.224 is reserved Address!
+Thu Apr 11 11:37:52 2013
+        The 121.18.213.33 is reserved Address!
+Thu Apr 11 11:37:52 2013
+        The 211.99.216.0 is reserved Address!
+Thu Apr 11 11:37:52 2013
+        Begin to insert IP Address !
+Thu Apr 11 11:37:52 2013
+        Begin to query A's data in database!
+Thu Apr 11 11:37:52 2013
+        Begin to query B's data in database!
+Thu Apr 11 11:37:52 2013
+        Begin to query C's data in database!
+Thu Apr 11 11:37:52 2013
+        Begin to query D's data in database!
+Thu Apr 11 11:37:52 2013
+        Begin to query E's data in database!
+Thu Apr 11 11:37:52 2013
+        Begin to Coverge the IP Address !
+Thu Apr 11 11:37:52 2013
+        I have use 10.000000 seconds to coverge the list!
+Thu Apr 11 11:37:52 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Thu Apr 11 11:37:52 2013
+        Coverge success ! ,the total table is:53938
+Thu Apr 11 11:38:21 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 11 11:38:21 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Thu Apr 11 11:38:21 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Thu Apr 11 11:38:21 2013
+ Begin to Compare the old and new data !
+Thu Apr 11 11:38:21 2013
+ New config.sh has been Created successfully!
+Thu Apr 11 11:38:21 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 11 16:07:39 CST 2013 Port A can be connect!
+Thu Apr 11 16:07:39 CST 2013 Port B can be connect!
+Thu Apr 11 16:07:39 CST 2013 Port C can be connect!
+Thu Apr 11 16:07:39 CST 2013 Port D can be connect!
+Thu Apr 11 16:07:39 CST 2013 Port E can be connect!
+Thu Apr 11 16:07:39 CST 2013 new.txt is not output
+Thu Apr 11 16:07:39 CST 2013 Config.sh not output
+Thu Apr 11 16:07:39 CST 2013 ipstatic.txt is not output
+Thu Apr 11 16:07:40 2013
+        The 0th port is A!
+Thu Apr 11 16:07:40 2013
+        The 1th port is B!
+Thu Apr 11 16:07:40 2013
+        The 2th port is C!
+Thu Apr 11 16:07:40 2013
+        The 3th port is D!
+Thu Apr 11 16:07:40 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 11 16:07:40 2013
+        The 0.0.0.0 is reserved Address!
+Thu Apr 11 16:07:40 2013
+        The 1.0.0.0 is reserved Address!
+Thu Apr 11 16:07:40 2013
+        The 121.18.213.224 is reserved Address!
+Thu Apr 11 16:07:40 2013
+        The 121.18.213.33 is reserved Address!
+Thu Apr 11 16:07:40 2013
+        The 211.99.216.0 is reserved Address!
+Thu Apr 11 16:07:40 2013
+        Begin to insert IP Address !
+Thu Apr 11 16:07:40 2013
+        Begin to query A's data in database!
+Thu Apr 11 16:07:40 2013
+        Begin to query B's data in database!
+Thu Apr 11 16:07:40 2013
+        Begin to query C's data in database!
+Thu Apr 11 16:07:40 2013
+        Begin to query D's data in database!
+Thu Apr 11 16:07:40 2013
+        Begin to query E's data in database!
+Thu Apr 11 16:07:40 2013
+        Begin to Coverge the IP Address !
+Thu Apr 11 16:07:40 2013
+        I have use 20.000000 seconds to coverge the list!
+Thu Apr 11 16:07:40 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Thu Apr 11 16:07:40 2013
+        Coverge success ! ,the total table is:63380
+Thu Apr 11 16:08:14 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 11 16:08:14 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Thu Apr 11 16:08:14 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Thu Apr 11 16:08:14 2013
+ Begin to Compare the old and new data !
+Thu Apr 11 16:08:14 2013
+ New config.sh has been Created successfully!
+Thu Apr 11 16:08:15 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 11 19:00:54 CST 2013 Port A can be connect!
+Thu Apr 11 19:00:54 CST 2013 Port B can be connect!
+Thu Apr 11 19:00:54 CST 2013 Port C can be connect!
+Thu Apr 11 19:00:54 CST 2013 Port D can be connect!
+Thu Apr 11 19:00:54 CST 2013 Port E can be connect!
+Thu Apr 11 19:00:54 CST 2013 new.txt is not output
+Thu Apr 11 19:00:54 CST 2013 Config.sh not output
+Thu Apr 11 19:00:54 CST 2013 ipstatic.txt is not output
+Thu Apr 11 19:00:55 2013
+        The 0th port is A!
+Thu Apr 11 19:00:55 2013
+        The 1th port is B!
+Thu Apr 11 19:00:55 2013
+        The 2th port is C!
+Thu Apr 11 19:00:55 2013
+        The 3th port is D!
+Thu Apr 11 19:00:55 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 11 19:00:55 2013
+        The 0.0.0.0 is reserved Address!
+Thu Apr 11 19:00:55 2013
+        The 1.0.0.0 is reserved Address!
+Thu Apr 11 19:00:55 2013
+        The 121.18.213.224 is reserved Address!
+Thu Apr 11 19:00:55 2013
+        The 121.18.213.33 is reserved Address!
+Thu Apr 11 19:00:55 2013
+        The 211.99.216.0 is reserved Address!
+Thu Apr 11 19:00:55 2013
+        Begin to insert IP Address !
+Thu Apr 11 19:00:55 2013
+        Begin to query A's data in database!
+Thu Apr 11 19:00:55 2013
+        Begin to query B's data in database!
+Thu Apr 11 19:00:55 2013
+        Begin to query C's data in database!
+Thu Apr 11 19:00:55 2013
+        Begin to query D's data in database!
+Thu Apr 11 19:00:55 2013
+        Begin to query E's data in database!
+Thu Apr 11 19:00:55 2013
+        Begin to Coverge the IP Address !
+Thu Apr 11 19:00:55 2013
+        I have use 20.000000 seconds to coverge the list!
+Thu Apr 11 19:00:55 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Thu Apr 11 19:00:55 2013
+        Coverge success ! ,the total table is:58454
+Thu Apr 11 19:01:27 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 11 19:01:27 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Thu Apr 11 19:01:27 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Thu Apr 11 19:01:27 2013
+ Begin to Compare the old and new data !
+Thu Apr 11 19:01:27 2013
+ New config.sh has been Created successfully!
+Thu Apr 11 19:01:27 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 11 21:56:16 CST 2013 Port A can be connect!
+Thu Apr 11 21:56:16 CST 2013 Port B can be connect!
+Thu Apr 11 21:56:16 CST 2013 Port C can be connect!
+Thu Apr 11 21:56:16 CST 2013 Port D can be connect!
+Thu Apr 11 21:56:16 CST 2013 Port E can be connect!
+Thu Apr 11 21:56:16 CST 2013 new.txt is not output
+Thu Apr 11 21:56:16 CST 2013 Config.sh not output
+Thu Apr 11 21:56:16 CST 2013 ipstatic.txt is not output
+Thu Apr 11 21:56:17 2013
+        The 0th port is A!
+Thu Apr 11 21:56:17 2013
+        The 1th port is B!
+Thu Apr 11 21:56:17 2013
+        The 2th port is C!
+Thu Apr 11 21:56:17 2013
+        The 3th port is D!
+Thu Apr 11 21:56:17 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 11 21:56:17 2013
+        The 0.0.0.0 is reserved Address!
+Thu Apr 11 21:56:17 2013
+        The 1.0.0.0 is reserved Address!
+Thu Apr 11 21:56:17 2013
+        The 121.18.213.224 is reserved Address!
+Thu Apr 11 21:56:17 2013
+        The 121.18.213.33 is reserved Address!
+Thu Apr 11 21:56:17 2013
+        The 211.99.216.0 is reserved Address!
+Thu Apr 11 21:56:17 2013
+        Begin to insert IP Address !
+Thu Apr 11 21:56:17 2013
+        Begin to query A's data in database!
+Thu Apr 11 21:56:17 2013
+        Begin to query B's data in database!
+Thu Apr 11 21:56:17 2013
+        Begin to query C's data in database!
+Thu Apr 11 21:56:17 2013
+        Begin to query D's data in database!
+Thu Apr 11 21:56:17 2013
+        Begin to query E's data in database!
+Thu Apr 11 21:56:17 2013
+        Begin to Coverge the IP Address !
+Thu Apr 11 21:56:17 2013
+        I have use 20.000000 seconds to coverge the list!
+Thu Apr 11 21:56:17 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Thu Apr 11 21:56:17 2013
+        Coverge success ! ,the total table is:67762
+Thu Apr 11 21:56:54 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 11 21:56:54 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Thu Apr 11 21:56:54 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Thu Apr 11 21:56:54 2013
+ Begin to Compare the old and new data !
+Thu Apr 11 21:56:54 2013
+ New config.sh has been Created successfully!
+Thu Apr 11 21:56:54 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 00:52:24 CST 2013 Port A can be connect!
+Fri Apr 12 00:52:24 CST 2013 Port B can be connect!
+Fri Apr 12 00:52:24 CST 2013 Port C can be connect!
+Fri Apr 12 00:52:24 CST 2013 Port D can be connect!
+Fri Apr 12 00:52:24 CST 2013 Port E can be connect!
+Fri Apr 12 00:52:24 CST 2013 new.txt is not output
+Fri Apr 12 00:52:24 CST 2013 Config.sh not output
+Fri Apr 12 00:52:24 CST 2013 ipstatic.txt is not output
+Fri Apr 12 00:52:25 2013
+        The 0th port is A!
+Fri Apr 12 00:52:25 2013
+        The 1th port is B!
+Fri Apr 12 00:52:25 2013
+        The 2th port is C!
+Fri Apr 12 00:52:25 2013
+        The 3th port is D!
+Fri Apr 12 00:52:25 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 00:52:25 2013
+        The 0.0.0.0 is reserved Address!
+Fri Apr 12 00:52:25 2013
+        The 1.0.0.0 is reserved Address!
+Fri Apr 12 00:52:25 2013
+        The 121.18.213.224 is reserved Address!
+Fri Apr 12 00:52:25 2013
+        The 121.18.213.33 is reserved Address!
+Fri Apr 12 00:52:25 2013
+        The 211.99.216.0 is reserved Address!
+Fri Apr 12 00:52:25 2013
+        Begin to insert IP Address !
+Fri Apr 12 00:52:25 2013
+        Begin to query A's data in database!
+Fri Apr 12 00:52:25 2013
+        Begin to query B's data in database!
+Fri Apr 12 00:52:25 2013
+        Begin to query C's data in database!
+Fri Apr 12 00:52:25 2013
+        Begin to query D's data in database!
+Fri Apr 12 00:52:25 2013
+        Begin to query E's data in database!
+Fri Apr 12 00:52:25 2013
+        Begin to Coverge the IP Address !
+Fri Apr 12 00:52:25 2013
+        I have use 20.000000 seconds to coverge the list!
+Fri Apr 12 00:52:25 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Fri Apr 12 00:52:25 2013
+        Coverge success ! ,the total table is:57742
+Fri Apr 12 00:52:53 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 00:52:53 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Fri Apr 12 00:52:53 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Fri Apr 12 00:52:53 2013
+ Begin to Compare the old and new data !
+Fri Apr 12 00:52:53 2013
+ New config.sh has been Created successfully!
+Fri Apr 12 00:52:53 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 04:20:41 CST 2013 Port A can be connect!
+Fri Apr 12 04:20:41 CST 2013 Port B can be connect!
+Fri Apr 12 04:20:41 CST 2013 Port C can be connect!
+Fri Apr 12 04:20:41 CST 2013 Port D can be connect!
+Fri Apr 12 04:20:41 CST 2013 Port E can be connect!
+Fri Apr 12 04:20:41 CST 2013 new.txt is not output
+Fri Apr 12 04:20:41 CST 2013 Config.sh not output
+Fri Apr 12 04:20:41 CST 2013 ipstatic.txt is not output
+Fri Apr 12 04:20:42 2013
+        The 0th port is A!
+Fri Apr 12 04:20:42 2013
+        The 1th port is B!
+Fri Apr 12 04:20:42 2013
+        The 2th port is C!
+Fri Apr 12 04:20:42 2013
+        The 3th port is D!
+Fri Apr 12 04:20:42 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 04:20:42 2013
+        The 0.0.0.0 is reserved Address!
+Fri Apr 12 04:20:42 2013
+        The 1.0.0.0 is reserved Address!
+Fri Apr 12 04:20:42 2013
+        The 121.18.213.224 is reserved Address!
+Fri Apr 12 04:20:42 2013
+        The 121.18.213.33 is reserved Address!
+Fri Apr 12 04:20:42 2013
+        The 211.99.216.0 is reserved Address!
+Fri Apr 12 04:20:42 2013
+        Begin to insert IP Address !
+Fri Apr 12 04:20:42 2013
+        Begin to query A's data in database!
+Fri Apr 12 04:20:42 2013
+        Begin to query B's data in database!
+Fri Apr 12 04:20:42 2013
+        Begin to query C's data in database!
+Fri Apr 12 04:20:42 2013
+        Begin to query D's data in database!
+Fri Apr 12 04:20:42 2013
+        Begin to query E's data in database!
+Fri Apr 12 04:20:42 2013
+        Begin to Coverge the IP Address !
+Fri Apr 12 04:20:42 2013
+        I have use 10.000000 seconds to coverge the list!
+Fri Apr 12 04:20:42 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Fri Apr 12 04:20:42 2013
+        Coverge success ! ,the total table is:45028
+Fri Apr 12 04:21:01 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 04:21:01 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Fri Apr 12 04:21:01 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Fri Apr 12 04:21:01 2013
+ Begin to Compare the old and new data !
+Fri Apr 12 04:21:01 2013
+ New config.sh has been Created successfully!
+Fri Apr 12 04:21:01 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 07:44:50 CST 2013 Port A can be connect!
+Fri Apr 12 07:44:50 CST 2013 Port B can be connect!
+Fri Apr 12 07:44:50 CST 2013 Port C can be connect!
+Fri Apr 12 07:44:50 CST 2013 Port D can be connect!
+Fri Apr 12 07:44:50 CST 2013 Port E can be connect!
+Fri Apr 12 07:44:50 CST 2013 new.txt is not output
+Fri Apr 12 07:44:50 CST 2013 Config.sh not output
+Fri Apr 12 07:44:50 CST 2013 ipstatic.txt is not output
+Fri Apr 12 07:44:51 2013
+        The 0th port is A!
+Fri Apr 12 07:44:51 2013
+        The 1th port is B!
+Fri Apr 12 07:44:51 2013
+        The 2th port is C!
+Fri Apr 12 07:44:51 2013
+        The 3th port is D!
+Fri Apr 12 07:44:51 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 07:44:51 2013
+        The 0.0.0.0 is reserved Address!
+Fri Apr 12 07:44:51 2013
+        The 1.0.0.0 is reserved Address!
+Fri Apr 12 07:44:51 2013
+        The 121.18.213.224 is reserved Address!
+Fri Apr 12 07:44:51 2013
+        The 121.18.213.33 is reserved Address!
+Fri Apr 12 07:44:51 2013
+        The 211.99.216.0 is reserved Address!
+Fri Apr 12 07:44:51 2013
+        Begin to insert IP Address !
+Fri Apr 12 07:44:51 2013
+        Begin to query A's data in database!
+Fri Apr 12 07:44:51 2013
+        Begin to query B's data in database!
+Fri Apr 12 07:44:51 2013
+        Begin to query C's data in database!
+Fri Apr 12 07:44:51 2013
+        Begin to query D's data in database!
+Fri Apr 12 07:44:51 2013
+        Begin to query E's data in database!
+Fri Apr 12 07:44:51 2013
+        Begin to Coverge the IP Address !
+Fri Apr 12 07:44:51 2013
+        I have use 20.000000 seconds to coverge the list!
+Fri Apr 12 07:44:51 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Fri Apr 12 07:44:51 2013
+        Coverge success ! ,the total table is:43169
+Fri Apr 12 07:45:10 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 07:45:10 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Fri Apr 12 07:45:10 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Fri Apr 12 07:45:10 2013
+ Begin to Compare the old and new data !
+Fri Apr 12 07:45:10 2013
+ New config.sh has been Created successfully!
+Fri Apr 12 07:45:10 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 10:33:40 CST 2013 Port A can be connect!
+Fri Apr 12 10:33:40 CST 2013 Port B can be connect!
+Fri Apr 12 10:33:40 CST 2013 Port C can be connect!
+Fri Apr 12 10:33:40 CST 2013 Port D can be connect!
+Fri Apr 12 10:33:40 CST 2013 Port E can be connect!
+Fri Apr 12 10:33:40 CST 2013 new.txt is not output
+Fri Apr 12 10:33:40 CST 2013 Config.sh not output
+Fri Apr 12 10:33:40 CST 2013 ipstatic.txt is not output
+Fri Apr 12 10:33:41 2013
+        The 0th port is A!
+Fri Apr 12 10:33:41 2013
+        The 1th port is B!
+Fri Apr 12 10:33:41 2013
+        The 2th port is C!
+Fri Apr 12 10:33:41 2013
+        The 3th port is D!
+Fri Apr 12 10:33:41 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 10:33:41 2013
+        The 0.0.0.0 is reserved Address!
+Fri Apr 12 10:33:41 2013
+        The 1.0.0.0 is reserved Address!
+Fri Apr 12 10:33:41 2013
+        The 121.18.213.224 is reserved Address!
+Fri Apr 12 10:33:41 2013
+        The 121.18.213.33 is reserved Address!
+Fri Apr 12 10:33:41 2013
+        The 211.99.216.0 is reserved Address!
+Fri Apr 12 10:33:41 2013
+        Begin to insert IP Address !
+Fri Apr 12 10:33:41 2013
+        Begin to query A's data in database!
+Fri Apr 12 10:33:41 2013
+        Begin to query B's data in database!
+Fri Apr 12 10:33:41 2013
+        Begin to query C's data in database!
+Fri Apr 12 10:33:41 2013
+        Begin to query D's data in database!
+Fri Apr 12 10:33:41 2013
+        Begin to query E's data in database!
+Fri Apr 12 10:33:41 2013
+        Begin to Coverge the IP Address !
+Fri Apr 12 10:33:41 2013
+        I have use 20.000000 seconds to coverge the list!
+Fri Apr 12 10:33:41 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Fri Apr 12 10:33:41 2013
+        Coverge success ! ,the total table is:52017
+Fri Apr 12 10:34:09 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 10:34:09 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Fri Apr 12 10:34:09 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Fri Apr 12 10:34:09 2013
+ Begin to Compare the old and new data !
+Fri Apr 12 10:34:09 2013
+ New config.sh has been Created successfully!
+Fri Apr 12 10:34:09 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 13:24:19 CST 2013 Port A can be connect!
+Fri Apr 12 13:24:19 CST 2013 Port B can be connect!
+Fri Apr 12 13:24:19 CST 2013 Port C can be connect!
+Fri Apr 12 13:24:19 CST 2013 Port D can be connect!
+Fri Apr 12 13:24:19 CST 2013 Port E can be connect!
+Fri Apr 12 13:24:19 CST 2013 new.txt is not output
+Fri Apr 12 13:24:19 CST 2013 Config.sh not output
+Fri Apr 12 13:24:19 CST 2013 ipstatic.txt is not output
+Fri Apr 12 13:24:20 2013
+        The 0th port is A!
+Fri Apr 12 13:24:20 2013
+        The 1th port is B!
+Fri Apr 12 13:24:20 2013
+        The 2th port is C!
+Fri Apr 12 13:24:20 2013
+        The 3th port is D!
+Fri Apr 12 13:24:20 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 13:24:20 2013
+        The 0.0.0.0 is reserved Address!
+Fri Apr 12 13:24:20 2013
+        The 1.0.0.0 is reserved Address!
+Fri Apr 12 13:24:20 2013
+        The 121.18.213.224 is reserved Address!
+Fri Apr 12 13:24:20 2013
+        The 121.18.213.33 is reserved Address!
+Fri Apr 12 13:24:20 2013
+        The 211.99.216.0 is reserved Address!
+Fri Apr 12 13:24:20 2013
+        Begin to insert IP Address !
+Fri Apr 12 13:24:20 2013
+        Begin to query A's data in database!
+Fri Apr 12 13:24:20 2013
+        Begin to query B's data in database!
+Fri Apr 12 13:24:20 2013
+        Begin to query C's data in database!
+Fri Apr 12 13:24:20 2013
+        Begin to query D's data in database!
+Fri Apr 12 13:24:20 2013
+        Begin to query E's data in database!
+Fri Apr 12 13:24:20 2013
+        Begin to Coverge the IP Address !
+Fri Apr 12 13:24:20 2013
+        I have use 10.000000 seconds to coverge the list!
+Fri Apr 12 13:24:20 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Fri Apr 12 13:24:20 2013
+        Coverge success ! ,the total table is:57965
+Fri Apr 12 13:24:51 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 13:24:51 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Fri Apr 12 13:24:51 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Fri Apr 12 13:24:51 2013
+ Begin to Compare the old and new data !
+Fri Apr 12 13:24:51 2013
+ New config.sh has been Created successfully!
+Fri Apr 12 13:24:51 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 16:17:38 CST 2013 Port A can be connect!
+Fri Apr 12 16:17:38 CST 2013 Port B can be connect!
+Fri Apr 12 16:17:38 CST 2013 Port C can be connect!
+Fri Apr 12 16:17:38 CST 2013 Port D can be connect!
+Fri Apr 12 16:17:38 CST 2013 Port E can be connect!
+Fri Apr 12 16:17:38 CST 2013 new.txt is not output
+Fri Apr 12 16:17:38 CST 2013 Config.sh not output
+Fri Apr 12 16:17:38 CST 2013 ipstatic.txt is not output
+Fri Apr 12 16:17:39 2013
+        The 0th port is A!
+Fri Apr 12 16:17:39 2013
+        The 1th port is B!
+Fri Apr 12 16:17:39 2013
+        The 2th port is C!
+Fri Apr 12 16:17:39 2013
+        The 3th port is D!
+Fri Apr 12 16:17:39 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 16:17:39 2013
+        The 0.0.0.0 is reserved Address!
+Fri Apr 12 16:17:39 2013
+        The 1.0.0.0 is reserved Address!
+Fri Apr 12 16:17:39 2013
+        The 121.18.213.224 is reserved Address!
+Fri Apr 12 16:17:39 2013
+        The 121.18.213.33 is reserved Address!
+Fri Apr 12 16:17:39 2013
+        The 211.99.216.0 is reserved Address!
+Fri Apr 12 16:17:39 2013
+        Begin to insert IP Address !
+Fri Apr 12 16:17:39 2013
+        Begin to query A's data in database!
+Fri Apr 12 16:17:39 2013
+        Begin to query B's data in database!
+Fri Apr 12 16:17:39 2013
+        Begin to query C's data in database!
+Fri Apr 12 16:17:39 2013
+        Begin to query D's data in database!
+Fri Apr 12 16:17:39 2013
+        Begin to query E's data in database!
+Fri Apr 12 16:17:39 2013
+        Begin to Coverge the IP Address !
+Fri Apr 12 16:17:39 2013
+        I have use 20.000000 seconds to coverge the list!
+Fri Apr 12 16:17:39 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Fri Apr 12 16:17:39 2013
+        Coverge success ! ,the total table is:62896
+Fri Apr 12 16:18:11 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 16:18:11 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Fri Apr 12 16:18:11 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Fri Apr 12 16:18:11 2013
+ Begin to Compare the old and new data !
+Fri Apr 12 16:18:11 2013
+ New config.sh has been Created successfully!
+Fri Apr 12 16:18:11 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 19:13:40 CST 2013 Port A can be connect!
+Fri Apr 12 19:13:40 CST 2013 Port B can be connect!
+Fri Apr 12 19:13:40 CST 2013 Port C can be connect!
+Fri Apr 12 19:13:40 CST 2013 Port D can be connect!
+Fri Apr 12 19:13:40 CST 2013 Port E can be connect!
+Fri Apr 12 19:13:40 CST 2013 new.txt is not output
+Fri Apr 12 19:13:40 CST 2013 Config.sh not output
+Fri Apr 12 19:13:40 CST 2013 ipstatic.txt is not output
+Fri Apr 12 19:13:41 2013
+        The 0th port is A!
+Fri Apr 12 19:13:41 2013
+        The 1th port is B!
+Fri Apr 12 19:13:41 2013
+        The 2th port is C!
+Fri Apr 12 19:13:41 2013
+        The 3th port is D!
+Fri Apr 12 19:13:41 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 19:13:41 2013
+        The 0.0.0.0 is reserved Address!
+Fri Apr 12 19:13:41 2013
+        The 1.0.0.0 is reserved Address!
+Fri Apr 12 19:13:41 2013
+        The 121.18.213.224 is reserved Address!
+Fri Apr 12 19:13:41 2013
+        The 121.18.213.33 is reserved Address!
+Fri Apr 12 19:13:41 2013
+        The 211.99.216.0 is reserved Address!
+Fri Apr 12 19:13:41 2013
+        Begin to insert IP Address !
+Fri Apr 12 19:13:41 2013
+        Begin to query A's data in database!
+Fri Apr 12 19:13:41 2013
+        Begin to query B's data in database!
+Fri Apr 12 19:13:41 2013
+        Begin to query C's data in database!
+Fri Apr 12 19:13:41 2013
+        Begin to query D's data in database!
+Fri Apr 12 19:13:41 2013
+        Begin to query E's data in database!
+Fri Apr 12 19:13:41 2013
+        Begin to Coverge the IP Address !
+Fri Apr 12 19:13:41 2013
+        I have use 20.000000 seconds to coverge the list!
+Fri Apr 12 19:13:41 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Fri Apr 12 19:13:41 2013
+        Coverge success ! ,the total table is:73453
+Fri Apr 12 19:14:20 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 19:14:20 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Fri Apr 12 19:14:20 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Fri Apr 12 19:14:20 2013
+ Begin to Compare the old and new data !
+Fri Apr 12 19:14:20 2013
+ New config.sh has been Created successfully!
+Fri Apr 12 19:14:20 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 22:10:41 CST 2013 Port A can be connect!
+Fri Apr 12 22:10:41 CST 2013 Port B can be connect!
+Fri Apr 12 22:10:41 CST 2013 Port C can be connect!
+Fri Apr 12 22:10:41 CST 2013 Port D can be connect!
+Fri Apr 12 22:10:41 CST 2013 Port E can be connect!
+Fri Apr 12 22:10:41 CST 2013 new.txt is not output
+Fri Apr 12 22:10:41 CST 2013 Config.sh not output
+Fri Apr 12 22:10:41 CST 2013 ipstatic.txt is not output
+Fri Apr 12 22:10:42 2013
+        The 0th port is A!
+Fri Apr 12 22:10:42 2013
+        The 1th port is B!
+Fri Apr 12 22:10:42 2013
+        The 2th port is C!
+Fri Apr 12 22:10:42 2013
+        The 3th port is D!
+Fri Apr 12 22:10:42 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 22:10:42 2013
+        The 0.0.0.0 is reserved Address!
+Fri Apr 12 22:10:42 2013
+        The 1.0.0.0 is reserved Address!
+Fri Apr 12 22:10:42 2013
+        The 121.18.213.224 is reserved Address!
+Fri Apr 12 22:10:42 2013
+        The 121.18.213.33 is reserved Address!
+Fri Apr 12 22:10:42 2013
+        The 211.99.216.0 is reserved Address!
+Fri Apr 12 22:10:42 2013
+        Begin to insert IP Address !
+Fri Apr 12 22:10:42 2013
+        Begin to query A's data in database!
+Fri Apr 12 22:10:42 2013
+        Begin to query B's data in database!
+Fri Apr 12 22:10:42 2013
+        Begin to query C's data in database!
+Fri Apr 12 22:10:42 2013
+        Begin to query D's data in database!
+Fri Apr 12 22:10:42 2013
+        Begin to query E's data in database!
+Fri Apr 12 22:10:42 2013
+        Begin to Coverge the IP Address !
+Fri Apr 12 22:10:42 2013
+        I have use 20.000000 seconds to coverge the list!
+Fri Apr 12 22:10:42 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Fri Apr 12 22:10:42 2013
+        Coverge success ! ,the total table is:64650
+Fri Apr 12 22:11:19 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Fri Apr 12 22:11:19 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Fri Apr 12 22:11:19 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Fri Apr 12 22:11:19 2013
+ Begin to Compare the old and new data !
+Fri Apr 12 22:11:19 2013
+ New config.sh has been Created successfully!
+Fri Apr 12 22:11:19 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 01:09:01 CST 2013 Port A can be connect!
+Sat Apr 13 01:09:01 CST 2013 Port B can be connect!
+Sat Apr 13 01:09:01 CST 2013 Port C can be connect!
+Sat Apr 13 01:09:01 CST 2013 Port D can be connect!
+Sat Apr 13 01:09:01 CST 2013 Port E can be connect!
+Sat Apr 13 01:09:01 CST 2013 new.txt is not output
+Sat Apr 13 01:09:01 CST 2013 Config.sh not output
+Sat Apr 13 01:09:01 CST 2013 ipstatic.txt is not output
+Sat Apr 13 01:09:02 2013
+        The 0th port is A!
+Sat Apr 13 01:09:02 2013
+        The 1th port is B!
+Sat Apr 13 01:09:02 2013
+        The 2th port is C!
+Sat Apr 13 01:09:02 2013
+        The 3th port is D!
+Sat Apr 13 01:09:02 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 01:09:02 2013
+        The 0.0.0.0 is reserved Address!
+Sat Apr 13 01:09:02 2013
+        The 1.0.0.0 is reserved Address!
+Sat Apr 13 01:09:02 2013
+        The 121.18.213.224 is reserved Address!
+Sat Apr 13 01:09:02 2013
+        The 121.18.213.33 is reserved Address!
+Sat Apr 13 01:09:02 2013
+        The 211.99.216.0 is reserved Address!
+Sat Apr 13 01:09:02 2013
+        Begin to insert IP Address !
+Sat Apr 13 01:09:02 2013
+        Begin to query A's data in database!
+Sat Apr 13 01:09:02 2013
+        Begin to query B's data in database!
+Sat Apr 13 01:09:02 2013
+        Begin to query C's data in database!
+Sat Apr 13 01:09:02 2013
+        Begin to query D's data in database!
+Sat Apr 13 01:09:02 2013
+        Begin to query E's data in database!
+Sat Apr 13 01:09:02 2013
+        Begin to Coverge the IP Address !
+Sat Apr 13 01:09:02 2013
+        I have use 10.000000 seconds to coverge the list!
+Sat Apr 13 01:09:02 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Sat Apr 13 01:09:02 2013
+        Coverge success ! ,the total table is:59293
+Sat Apr 13 01:09:30 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 01:09:30 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Sat Apr 13 01:09:30 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Sat Apr 13 01:09:30 2013
+ Begin to Compare the old and new data !
+Sat Apr 13 01:09:30 2013
+ New config.sh has been Created successfully!
+Sat Apr 13 01:09:30 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 04:35:27 CST 2013 Port A can be connect!
+Sat Apr 13 04:35:27 CST 2013 Port B can be connect!
+Sat Apr 13 04:35:27 CST 2013 Port C can be connect!
+Sat Apr 13 04:35:27 CST 2013 Port D can be connect!
+Sat Apr 13 04:35:27 CST 2013 Port E can be connect!
+Sat Apr 13 04:35:27 CST 2013 new.txt is not output
+Sat Apr 13 04:35:27 CST 2013 Config.sh not output
+Sat Apr 13 04:35:27 CST 2013 ipstatic.txt is not output
+Sat Apr 13 04:35:28 2013
+        The 0th port is A!
+Sat Apr 13 04:35:28 2013
+        The 1th port is B!
+Sat Apr 13 04:35:28 2013
+        The 2th port is C!
+Sat Apr 13 04:35:28 2013
+        The 3th port is D!
+Sat Apr 13 04:35:28 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 04:35:28 2013
+        The 0.0.0.0 is reserved Address!
+Sat Apr 13 04:35:28 2013
+        The 1.0.0.0 is reserved Address!
+Sat Apr 13 04:35:28 2013
+        The 121.18.213.224 is reserved Address!
+Sat Apr 13 04:35:28 2013
+        The 121.18.213.33 is reserved Address!
+Sat Apr 13 04:35:28 2013
+        The 211.99.216.0 is reserved Address!
+Sat Apr 13 04:35:28 2013
+        Begin to insert IP Address !
+Sat Apr 13 04:35:28 2013
+        Begin to query A's data in database!
+Sat Apr 13 04:35:28 2013
+        Begin to query B's data in database!
+Sat Apr 13 04:35:28 2013
+        Begin to query C's data in database!
+Sat Apr 13 04:35:28 2013
+        Begin to query D's data in database!
+Sat Apr 13 04:35:28 2013
+        Begin to query E's data in database!
+Sat Apr 13 04:35:28 2013
+        Begin to Coverge the IP Address !
+Sat Apr 13 04:35:28 2013
+        I have use 20.000000 seconds to coverge the list!
+Sat Apr 13 04:35:28 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Sat Apr 13 04:35:28 2013
+        Coverge success ! ,the total table is:44854
+Sat Apr 13 04:35:47 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 04:35:47 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Sat Apr 13 04:35:47 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Sat Apr 13 04:35:47 2013
+ Begin to Compare the old and new data !
+Sat Apr 13 04:35:47 2013
+ New config.sh has been Created successfully!
+Sat Apr 13 04:35:47 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 07:57:53 CST 2013 Port A can be connect!
+Sat Apr 13 07:57:53 CST 2013 Port B can be connect!
+Sat Apr 13 07:57:53 CST 2013 Port C can be connect!
+Sat Apr 13 07:57:53 CST 2013 Port D can be connect!
+Sat Apr 13 07:57:53 CST 2013 Port E can be connect!
+Sat Apr 13 07:57:53 CST 2013 new.txt is not output
+Sat Apr 13 07:57:53 CST 2013 Config.sh not output
+Sat Apr 13 07:57:53 CST 2013 ipstatic.txt is not output
+Sat Apr 13 07:57:54 2013
+        The 0th port is A!
+Sat Apr 13 07:57:54 2013
+        The 1th port is B!
+Sat Apr 13 07:57:54 2013
+        The 2th port is C!
+Sat Apr 13 07:57:54 2013
+        The 3th port is D!
+Sat Apr 13 07:57:54 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 07:57:54 2013
+        The 0.0.0.0 is reserved Address!
+Sat Apr 13 07:57:54 2013
+        The 1.0.0.0 is reserved Address!
+Sat Apr 13 07:57:54 2013
+        The 121.18.213.224 is reserved Address!
+Sat Apr 13 07:57:54 2013
+        The 121.18.213.33 is reserved Address!
+Sat Apr 13 07:57:54 2013
+        The 211.99.216.0 is reserved Address!
+Sat Apr 13 07:57:54 2013
+        Begin to insert IP Address !
+Sat Apr 13 07:57:54 2013
+        Begin to query A's data in database!
+Sat Apr 13 07:57:54 2013
+        Begin to query B's data in database!
+Sat Apr 13 07:57:54 2013
+        Begin to query C's data in database!
+Sat Apr 13 07:57:54 2013
+        Begin to query D's data in database!
+Sat Apr 13 07:57:54 2013
+        Begin to query E's data in database!
+Sat Apr 13 07:57:54 2013
+        Begin to Coverge the IP Address !
+Sat Apr 13 07:57:54 2013
+        I have use 20.000000 seconds to coverge the list!
+Sat Apr 13 07:57:54 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Sat Apr 13 07:57:54 2013
+        Coverge success ! ,the total table is:43836
+Sat Apr 13 07:58:14 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 07:58:14 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Sat Apr 13 07:58:14 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Sat Apr 13 07:58:14 2013
+ Begin to Compare the old and new data !
+Sat Apr 13 07:58:14 2013
+ New config.sh has been Created successfully!
+Sat Apr 13 07:58:14 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 10:47:04 CST 2013 Port A can be connect!
+Sat Apr 13 10:47:04 CST 2013 Port B can be connect!
+Sat Apr 13 10:47:04 CST 2013 Port C can be connect!
+Sat Apr 13 10:47:04 CST 2013 Port D can be connect!
+Sat Apr 13 10:47:04 CST 2013 Port E can be connect!
+Sat Apr 13 10:47:04 CST 2013 new.txt is not output
+Sat Apr 13 10:47:04 CST 2013 Config.sh not output
+Sat Apr 13 10:47:04 CST 2013 ipstatic.txt is not output
+Sat Apr 13 10:47:05 2013
+        The 0th port is A!
+Sat Apr 13 10:47:05 2013
+        The 1th port is B!
+Sat Apr 13 10:47:05 2013
+        The 2th port is C!
+Sat Apr 13 10:47:05 2013
+        The 3th port is D!
+Sat Apr 13 10:47:05 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 10:47:05 2013
+        The 0.0.0.0 is reserved Address!
+Sat Apr 13 10:47:05 2013
+        The 1.0.0.0 is reserved Address!
+Sat Apr 13 10:47:05 2013
+        The 121.18.213.224 is reserved Address!
+Sat Apr 13 10:47:05 2013
+        The 121.18.213.33 is reserved Address!
+Sat Apr 13 10:47:05 2013
+        The 211.99.216.0 is reserved Address!
+Sat Apr 13 10:47:05 2013
+        Begin to insert IP Address !
+Sat Apr 13 10:47:05 2013
+        Begin to query A's data in database!
+Sat Apr 13 10:47:05 2013
+        Begin to query B's data in database!
+Sat Apr 13 10:47:05 2013
+        Begin to query C's data in database!
+Sat Apr 13 10:47:05 2013
+        Begin to query D's data in database!
+Sat Apr 13 10:47:05 2013
+        Begin to query E's data in database!
+Sat Apr 13 10:47:05 2013
+        Begin to Coverge the IP Address !
+Sat Apr 13 10:47:05 2013
+        I have use 20.000000 seconds to coverge the list!
+Sat Apr 13 10:47:05 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Sat Apr 13 10:47:05 2013
+        Coverge success ! ,the total table is:56110
+Sat Apr 13 10:47:34 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 10:47:34 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Sat Apr 13 10:47:34 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Sat Apr 13 10:47:34 2013
+ Begin to Compare the old and new data !
+Sat Apr 13 10:47:34 2013
+ New config.sh has been Created successfully!
+Sat Apr 13 10:47:34 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 13:38:15 CST 2013 Port A can be connect!
+Sat Apr 13 13:38:15 CST 2013 Port B can be connect!
+Sat Apr 13 13:38:15 CST 2013 Port C can be connect!
+Sat Apr 13 13:38:15 CST 2013 Port D can be connect!
+Sat Apr 13 13:38:15 CST 2013 Port E can be connect!
+Sat Apr 13 13:38:15 CST 2013 new.txt is not output
+Sat Apr 13 13:38:15 CST 2013 Config.sh not output
+Sat Apr 13 13:38:15 CST 2013 ipstatic.txt is not output
+Sat Apr 13 13:38:16 2013
+        The 0th port is A!
+Sat Apr 13 13:38:16 2013
+        The 1th port is B!
+Sat Apr 13 13:38:16 2013
+        The 2th port is C!
+Sat Apr 13 13:38:16 2013
+        The 3th port is D!
+Sat Apr 13 13:38:16 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 13:38:16 2013
+        The 0.0.0.0 is reserved Address!
+Sat Apr 13 13:38:16 2013
+        The 1.0.0.0 is reserved Address!
+Sat Apr 13 13:38:16 2013
+        The 121.18.213.224 is reserved Address!
+Sat Apr 13 13:38:16 2013
+        The 121.18.213.33 is reserved Address!
+Sat Apr 13 13:38:16 2013
+        The 211.99.216.0 is reserved Address!
+Sat Apr 13 13:38:16 2013
+        Begin to insert IP Address !
+Sat Apr 13 13:38:16 2013
+        Begin to query A's data in database!
+Sat Apr 13 13:38:16 2013
+        Begin to query B's data in database!
+Sat Apr 13 13:38:16 2013
+        Begin to query C's data in database!
+Sat Apr 13 13:38:16 2013
+        Begin to query D's data in database!
+Sat Apr 13 13:38:16 2013
+        Begin to query E's data in database!
+Sat Apr 13 13:38:16 2013
+        Begin to Coverge the IP Address !
+Sat Apr 13 13:38:16 2013
+        I have use 20.000000 seconds to coverge the list!
+Sat Apr 13 13:38:16 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Sat Apr 13 13:38:16 2013
+        Coverge success ! ,the total table is:63275
+Sat Apr 13 13:38:51 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 13:38:51 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Sat Apr 13 13:38:51 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Sat Apr 13 13:38:51 2013
+ Begin to Compare the old and new data !
+Sat Apr 13 13:38:51 2013
+ New config.sh has been Created successfully!
+Sat Apr 13 13:38:51 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 16:33:51 CST 2013 Port A can be connect!
+Sat Apr 13 16:33:51 CST 2013 Port B can be connect!
+Sat Apr 13 16:33:51 CST 2013 Port C can be connect!
+Sat Apr 13 16:33:51 CST 2013 Port D can be connect!
+Sat Apr 13 16:33:51 CST 2013 Port E can be connect!
+Sat Apr 13 16:33:51 CST 2013 new.txt is not output
+Sat Apr 13 16:33:51 CST 2013 Config.sh not output
+Sat Apr 13 16:33:51 CST 2013 ipstatic.txt is not output
+Sat Apr 13 16:33:52 2013
+        The 0th port is A!
+Sat Apr 13 16:33:52 2013
+        The 1th port is B!
+Sat Apr 13 16:33:52 2013
+        The 2th port is C!
+Sat Apr 13 16:33:52 2013
+        The 3th port is D!
+Sat Apr 13 16:33:52 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 16:33:52 2013
+        The 0.0.0.0 is reserved Address!
+Sat Apr 13 16:33:52 2013
+        The 1.0.0.0 is reserved Address!
+Sat Apr 13 16:33:52 2013
+        The 121.18.213.224 is reserved Address!
+Sat Apr 13 16:33:52 2013
+        The 121.18.213.33 is reserved Address!
+Sat Apr 13 16:33:52 2013
+        The 211.99.216.0 is reserved Address!
+Sat Apr 13 16:33:52 2013
+        Begin to insert IP Address !
+Sat Apr 13 16:33:52 2013
+        Begin to query A's data in database!
+Sat Apr 13 16:33:52 2013
+        Begin to query B's data in database!
+Sat Apr 13 16:33:52 2013
+        Begin to query C's data in database!
+Sat Apr 13 16:33:52 2013
+        Begin to query D's data in database!
+Sat Apr 13 16:33:52 2013
+        Begin to query E's data in database!
+Sat Apr 13 16:33:52 2013
+        Begin to Coverge the IP Address !
+Sat Apr 13 16:33:52 2013
+        I have use 20.000000 seconds to coverge the list!
+Sat Apr 13 16:33:52 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Sat Apr 13 16:33:52 2013
+        Coverge success ! ,the total table is:62135
+Sat Apr 13 16:34:23 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 16:34:23 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Sat Apr 13 16:34:23 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Sat Apr 13 16:34:23 2013
+ Begin to Compare the old and new data !
+Sat Apr 13 16:34:23 2013
+ New config.sh has been Created successfully!
+Sat Apr 13 16:34:23 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 19:30:02 CST 2013 Port A can be connect!
+Sat Apr 13 19:30:02 CST 2013 Port B can be connect!
+Sat Apr 13 19:30:02 CST 2013 Port C can be connect!
+Sat Apr 13 19:30:02 CST 2013 Port D can be connect!
+Sat Apr 13 19:30:02 CST 2013 Port E can be connect!
+Sat Apr 13 19:30:02 CST 2013 new.txt is not output
+Sat Apr 13 19:30:02 CST 2013 Config.sh not output
+Sat Apr 13 19:30:02 CST 2013 ipstatic.txt is not output
+Sat Apr 13 19:30:03 2013
+        The 0th port is A!
+Sat Apr 13 19:30:03 2013
+        The 1th port is B!
+Sat Apr 13 19:30:03 2013
+        The 2th port is C!
+Sat Apr 13 19:30:03 2013
+        The 3th port is D!
+Sat Apr 13 19:30:03 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 19:30:03 2013
+        The 0.0.0.0 is reserved Address!
+Sat Apr 13 19:30:03 2013
+        The 1.0.0.0 is reserved Address!
+Sat Apr 13 19:30:03 2013
+        The 121.18.213.224 is reserved Address!
+Sat Apr 13 19:30:03 2013
+        The 121.18.213.33 is reserved Address!
+Sat Apr 13 19:30:03 2013
+        The 211.99.216.0 is reserved Address!
+Sat Apr 13 19:30:03 2013
+        Begin to insert IP Address !
+Sat Apr 13 19:30:03 2013
+        Begin to query A's data in database!
+Sat Apr 13 19:30:03 2013
+        Begin to query B's data in database!
+Sat Apr 13 19:30:03 2013
+        Begin to query C's data in database!
+Sat Apr 13 19:30:03 2013
+        Begin to query D's data in database!
+Sat Apr 13 19:30:03 2013
+        Begin to query E's data in database!
+Sat Apr 13 19:30:03 2013
+        Begin to Coverge the IP Address !
+Sat Apr 13 19:30:03 2013
+        I have use 20.000000 seconds to coverge the list!
+Sat Apr 13 19:30:03 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Sat Apr 13 19:30:03 2013
+        Coverge success ! ,the total table is:65511
+Sat Apr 13 19:30:36 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 19:30:36 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Sat Apr 13 19:30:36 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Sat Apr 13 19:30:36 2013
+ Begin to Compare the old and new data !
+Sat Apr 13 19:30:36 2013
+ New config.sh has been Created successfully!
+Sat Apr 13 19:30:36 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 22:24:57 CST 2013 Port A can be connect!
+Sat Apr 13 22:24:57 CST 2013 Port B can be connect!
+Sat Apr 13 22:24:57 CST 2013 Port C can be connect!
+Sat Apr 13 22:24:57 CST 2013 Port D can be connect!
+Sat Apr 13 22:24:57 CST 2013 Port E can be connect!
+Sat Apr 13 22:24:57 CST 2013 new.txt is not output
+Sat Apr 13 22:24:57 CST 2013 Config.sh not output
+Sat Apr 13 22:24:57 CST 2013 ipstatic.txt is not output
+Sat Apr 13 22:24:58 2013
+        The 0th port is A!
+Sat Apr 13 22:24:58 2013
+        The 1th port is B!
+Sat Apr 13 22:24:58 2013
+        The 2th port is C!
+Sat Apr 13 22:24:58 2013
+        The 3th port is D!
+Sat Apr 13 22:24:58 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 22:24:58 2013
+        The 0.0.0.0 is reserved Address!
+Sat Apr 13 22:24:58 2013
+        The 1.0.0.0 is reserved Address!
+Sat Apr 13 22:24:58 2013
+        The 121.18.213.224 is reserved Address!
+Sat Apr 13 22:24:58 2013
+        The 121.18.213.33 is reserved Address!
+Sat Apr 13 22:24:58 2013
+        The 211.99.216.0 is reserved Address!
+Sat Apr 13 22:24:58 2013
+        Begin to insert IP Address !
+Sat Apr 13 22:24:58 2013
+        Begin to query A's data in database!
+Sat Apr 13 22:24:58 2013
+        Begin to query B's data in database!
+Sat Apr 13 22:24:58 2013
+        Begin to query C's data in database!
+Sat Apr 13 22:24:58 2013
+        Begin to query D's data in database!
+Sat Apr 13 22:24:58 2013
+        Begin to query E's data in database!
+Sat Apr 13 22:24:58 2013
+        Begin to Coverge the IP Address !
+Sat Apr 13 22:24:58 2013
+        I have use 20.000000 seconds to coverge the list!
+Sat Apr 13 22:24:58 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Sat Apr 13 22:24:58 2013
+        Coverge success ! ,the total table is:72160
+Sat Apr 13 22:25:37 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sat Apr 13 22:25:37 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Sat Apr 13 22:25:37 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Sat Apr 13 22:25:37 2013
+ Begin to Compare the old and new data !
+Sat Apr 13 22:25:37 2013
+ New config.sh has been Created successfully!
+Sat Apr 13 22:25:37 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 01:22:40 CST 2013 Port A can be connect!
+Sun Apr 14 01:22:40 CST 2013 Port B can be connect!
+Sun Apr 14 01:22:40 CST 2013 Port C can be connect!
+Sun Apr 14 01:22:40 CST 2013 Port D can be connect!
+Sun Apr 14 01:22:40 CST 2013 Port E can be connect!
+Sun Apr 14 01:22:40 CST 2013 new.txt is not output
+Sun Apr 14 01:22:40 CST 2013 Config.sh not output
+Sun Apr 14 01:22:40 CST 2013 ipstatic.txt is not output
+Sun Apr 14 01:22:41 2013
+        The 0th port is A!
+Sun Apr 14 01:22:41 2013
+        The 1th port is B!
+Sun Apr 14 01:22:41 2013
+        The 2th port is C!
+Sun Apr 14 01:22:41 2013
+        The 3th port is D!
+Sun Apr 14 01:22:41 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 01:22:41 2013
+        The 0.0.0.0 is reserved Address!
+Sun Apr 14 01:22:41 2013
+        The 1.0.0.0 is reserved Address!
+Sun Apr 14 01:22:41 2013
+        The 121.18.213.224 is reserved Address!
+Sun Apr 14 01:22:41 2013
+        The 121.18.213.33 is reserved Address!
+Sun Apr 14 01:22:41 2013
+        The 211.99.216.0 is reserved Address!
+Sun Apr 14 01:22:41 2013
+        Begin to insert IP Address !
+Sun Apr 14 01:22:41 2013
+        Begin to query A's data in database!
+Sun Apr 14 01:22:41 2013
+        Begin to query B's data in database!
+Sun Apr 14 01:22:41 2013
+        Begin to query C's data in database!
+Sun Apr 14 01:22:41 2013
+        Begin to query D's data in database!
+Sun Apr 14 01:22:41 2013
+        Begin to query E's data in database!
+Sun Apr 14 01:22:41 2013
+        Begin to Coverge the IP Address !
+Sun Apr 14 01:22:41 2013
+        I have use 20.000000 seconds to coverge the list!
+Sun Apr 14 01:22:41 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Sun Apr 14 01:22:41 2013
+        Coverge success ! ,the total table is:55486
+Sun Apr 14 01:23:08 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 01:23:08 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Sun Apr 14 01:23:08 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Sun Apr 14 01:23:08 2013
+ Begin to Compare the old and new data !
+Sun Apr 14 01:23:08 2013
+ New config.sh has been Created successfully!
+Sun Apr 14 01:23:08 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 04:50:44 CST 2013 Port A can be connect!
+Sun Apr 14 04:50:44 CST 2013 Port B can be connect!
+Sun Apr 14 04:50:44 CST 2013 Port C can be connect!
+Sun Apr 14 04:50:44 CST 2013 Port D can be connect!
+Sun Apr 14 04:50:44 CST 2013 Port E can be connect!
+Sun Apr 14 04:50:44 CST 2013 new.txt is not output
+Sun Apr 14 04:50:44 CST 2013 Config.sh not output
+Sun Apr 14 04:50:44 CST 2013 ipstatic.txt is not output
+Sun Apr 14 04:50:45 2013
+        The 0th port is A!
+Sun Apr 14 04:50:45 2013
+        The 1th port is B!
+Sun Apr 14 04:50:45 2013
+        The 2th port is C!
+Sun Apr 14 04:50:45 2013
+        The 3th port is D!
+Sun Apr 14 04:50:45 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 04:50:45 2013
+        The 0.0.0.0 is reserved Address!
+Sun Apr 14 04:50:45 2013
+        The 1.0.0.0 is reserved Address!
+Sun Apr 14 04:50:45 2013
+        The 121.18.213.224 is reserved Address!
+Sun Apr 14 04:50:45 2013
+        The 121.18.213.33 is reserved Address!
+Sun Apr 14 04:50:45 2013
+        The 211.99.216.0 is reserved Address!
+Sun Apr 14 04:50:45 2013
+        Begin to insert IP Address !
+Sun Apr 14 04:50:45 2013
+        Begin to query A's data in database!
+Sun Apr 14 04:50:45 2013
+        Begin to query B's data in database!
+Sun Apr 14 04:50:45 2013
+        Begin to query C's data in database!
+Sun Apr 14 04:50:45 2013
+        Begin to query D's data in database!
+Sun Apr 14 04:50:45 2013
+        Begin to query E's data in database!
+Sun Apr 14 04:50:45 2013
+        Begin to Coverge the IP Address !
+Sun Apr 14 04:50:45 2013
+        I have use 20.000000 seconds to coverge the list!
+Sun Apr 14 04:50:45 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Sun Apr 14 04:50:45 2013
+        Coverge success ! ,the total table is:46633
+Sun Apr 14 04:51:05 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 04:51:05 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Sun Apr 14 04:51:05 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Sun Apr 14 04:51:05 2013
+ Begin to Compare the old and new data !
+Sun Apr 14 04:51:05 2013
+ New config.sh has been Created successfully!
+Sun Apr 14 04:51:05 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 08:13:13 CST 2013 Port A can be connect!
+Sun Apr 14 08:13:13 CST 2013 Port B can be connect!
+Sun Apr 14 08:13:13 CST 2013 Port C can be connect!
+Sun Apr 14 08:13:13 CST 2013 Port D can be connect!
+Sun Apr 14 08:13:13 CST 2013 Port E can be connect!
+Sun Apr 14 08:13:13 CST 2013 new.txt is not output
+Sun Apr 14 08:13:13 CST 2013 Config.sh not output
+Sun Apr 14 08:13:13 CST 2013 ipstatic.txt is not output
+Sun Apr 14 08:13:14 2013
+        The 0th port is A!
+Sun Apr 14 08:13:14 2013
+        The 1th port is B!
+Sun Apr 14 08:13:14 2013
+        The 2th port is C!
+Sun Apr 14 08:13:14 2013
+        The 3th port is D!
+Sun Apr 14 08:13:14 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 08:13:14 2013
+        The 0.0.0.0 is reserved Address!
+Sun Apr 14 08:13:14 2013
+        The 1.0.0.0 is reserved Address!
+Sun Apr 14 08:13:14 2013
+        The 121.18.213.224 is reserved Address!
+Sun Apr 14 08:13:14 2013
+        The 121.18.213.33 is reserved Address!
+Sun Apr 14 08:13:14 2013
+        The 211.99.216.0 is reserved Address!
+Sun Apr 14 08:13:14 2013
+        Begin to insert IP Address !
+Sun Apr 14 08:13:14 2013
+        Begin to query A's data in database!
+Sun Apr 14 08:13:14 2013
+        Begin to query B's data in database!
+Sun Apr 14 08:13:14 2013
+        Begin to query C's data in database!
+Sun Apr 14 08:13:14 2013
+        Begin to query D's data in database!
+Sun Apr 14 08:13:14 2013
+        Begin to query E's data in database!
+Sun Apr 14 08:13:14 2013
+        Begin to Coverge the IP Address !
+Sun Apr 14 08:13:14 2013
+        I have use 20.000000 seconds to coverge the list!
+Sun Apr 14 08:13:14 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Sun Apr 14 08:13:14 2013
+        Coverge success ! ,the total table is:45118
+Sun Apr 14 08:13:35 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 08:13:35 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Sun Apr 14 08:13:35 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Sun Apr 14 08:13:35 2013
+ Begin to Compare the old and new data !
+Sun Apr 14 08:13:35 2013
+ New config.sh has been Created successfully!
+Sun Apr 14 08:13:35 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 11:02:31 CST 2013 Port A can be connect!
+Sun Apr 14 11:02:31 CST 2013 Port B can be connect!
+Sun Apr 14 11:02:31 CST 2013 Port C can be connect!
+Sun Apr 14 11:02:31 CST 2013 Port D can be connect!
+Sun Apr 14 11:02:32 CST 2013 Port E can be connect!
+Sun Apr 14 11:02:32 CST 2013 new.txt is not output
+Sun Apr 14 11:02:32 CST 2013 Config.sh not output
+Sun Apr 14 11:02:32 CST 2013 ipstatic.txt is not output
+Sun Apr 14 11:02:33 2013
+        The 0th port is A!
+Sun Apr 14 11:02:33 2013
+        The 1th port is B!
+Sun Apr 14 11:02:33 2013
+        The 2th port is C!
+Sun Apr 14 11:02:33 2013
+        The 3th port is D!
+Sun Apr 14 11:02:33 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 11:02:33 2013
+        The 0.0.0.0 is reserved Address!
+Sun Apr 14 11:02:33 2013
+        The 1.0.0.0 is reserved Address!
+Sun Apr 14 11:02:33 2013
+        The 121.18.213.224 is reserved Address!
+Sun Apr 14 11:02:33 2013
+        The 121.18.213.33 is reserved Address!
+Sun Apr 14 11:02:33 2013
+        The 211.99.216.0 is reserved Address!
+Sun Apr 14 11:02:33 2013
+        Begin to insert IP Address !
+Sun Apr 14 11:02:33 2013
+        Begin to query A's data in database!
+Sun Apr 14 11:02:33 2013
+        Begin to query B's data in database!
+Sun Apr 14 11:02:33 2013
+        Begin to query C's data in database!
+Sun Apr 14 11:02:33 2013
+        Begin to query D's data in database!
+Sun Apr 14 11:02:33 2013
+        Begin to query E's data in database!
+Sun Apr 14 11:02:33 2013
+        Begin to Coverge the IP Address !
+Sun Apr 14 11:02:33 2013
+        I have use 20.000000 seconds to coverge the list!
+Sun Apr 14 11:02:33 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Sun Apr 14 11:02:33 2013
+        Coverge success ! ,the total table is:62257
+Sun Apr 14 11:03:07 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 11:03:07 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Sun Apr 14 11:03:07 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Sun Apr 14 11:03:07 2013
+ Begin to Compare the old and new data !
+Sun Apr 14 11:03:07 2013
+ New config.sh has been Created successfully!
+Sun Apr 14 11:03:07 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 13:55:24 CST 2013 Port A can be connect!
+Sun Apr 14 13:55:24 CST 2013 Port B can be connect!
+Sun Apr 14 13:55:24 CST 2013 Port C can be connect!
+Sun Apr 14 13:55:24 CST 2013 Port D can be connect!
+Sun Apr 14 13:55:24 CST 2013 Port E can be connect!
+Sun Apr 14 13:55:24 CST 2013 new.txt is not output
+Sun Apr 14 13:55:24 CST 2013 Config.sh not output
+Sun Apr 14 13:55:24 CST 2013 ipstatic.txt is not output
+Sun Apr 14 13:55:25 2013
+        The 0th port is A!
+Sun Apr 14 13:55:25 2013
+        The 1th port is B!
+Sun Apr 14 13:55:25 2013
+        The 2th port is C!
+Sun Apr 14 13:55:25 2013
+        The 3th port is D!
+Sun Apr 14 13:55:25 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 13:55:25 2013
+        The 0.0.0.0 is reserved Address!
+Sun Apr 14 13:55:25 2013
+        The 1.0.0.0 is reserved Address!
+Sun Apr 14 13:55:25 2013
+        The 121.18.213.224 is reserved Address!
+Sun Apr 14 13:55:25 2013
+        The 121.18.213.33 is reserved Address!
+Sun Apr 14 13:55:25 2013
+        The 211.99.216.0 is reserved Address!
+Sun Apr 14 13:55:25 2013
+        Begin to insert IP Address !
+Sun Apr 14 13:55:25 2013
+        Begin to query A's data in database!
+Sun Apr 14 13:55:25 2013
+        Begin to query B's data in database!
+Sun Apr 14 13:55:25 2013
+        Begin to query C's data in database!
+Sun Apr 14 13:55:25 2013
+        Begin to query D's data in database!
+Sun Apr 14 13:55:25 2013
+        Begin to query E's data in database!
+Sun Apr 14 13:55:25 2013
+        Begin to Coverge the IP Address !
+Sun Apr 14 13:55:25 2013
+        I have use 20.000000 seconds to coverge the list!
+Sun Apr 14 13:55:25 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Sun Apr 14 13:55:25 2013
+        Coverge success ! ,the total table is:62466
+Sun Apr 14 13:55:58 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 13:55:58 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Sun Apr 14 13:55:58 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Sun Apr 14 13:55:58 2013
+ Begin to Compare the old and new data !
+Sun Apr 14 13:55:58 2013
+ New config.sh has been Created successfully!
+Sun Apr 14 13:55:58 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 16:51:25 CST 2013 Port A can be connect!
+Sun Apr 14 16:51:25 CST 2013 Port B can be connect!
+Sun Apr 14 16:51:25 CST 2013 Port C can be connect!
+Sun Apr 14 16:51:25 CST 2013 Port D can be connect!
+Sun Apr 14 16:51:25 CST 2013 Port E can be connect!
+Sun Apr 14 16:51:25 CST 2013 new.txt is not output
+Sun Apr 14 16:51:25 CST 2013 Config.sh not output
+Sun Apr 14 16:51:25 CST 2013 ipstatic.txt is not output
+Sun Apr 14 16:51:26 2013
+        The 0th port is A!
+Sun Apr 14 16:51:26 2013
+        The 1th port is B!
+Sun Apr 14 16:51:26 2013
+        The 2th port is C!
+Sun Apr 14 16:51:26 2013
+        The 3th port is D!
+Sun Apr 14 16:51:26 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 16:51:26 2013
+        The 0.0.0.0 is reserved Address!
+Sun Apr 14 16:51:26 2013
+        The 1.0.0.0 is reserved Address!
+Sun Apr 14 16:51:26 2013
+        The 121.18.213.224 is reserved Address!
+Sun Apr 14 16:51:26 2013
+        The 121.18.213.33 is reserved Address!
+Sun Apr 14 16:51:26 2013
+        The 211.99.216.0 is reserved Address!
+Sun Apr 14 16:51:26 2013
+        Begin to insert IP Address !
+Sun Apr 14 16:51:26 2013
+        Begin to query A's data in database!
+Sun Apr 14 16:51:26 2013
+        Begin to query B's data in database!
+Sun Apr 14 16:51:26 2013
+        Begin to query C's data in database!
+Sun Apr 14 16:51:26 2013
+        Begin to query D's data in database!
+Sun Apr 14 16:51:26 2013
+        Begin to query E's data in database!
+Sun Apr 14 16:51:26 2013
+        Begin to Coverge the IP Address !
+Sun Apr 14 16:51:26 2013
+        I have use 20.000000 seconds to coverge the list!
+Sun Apr 14 16:51:26 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Sun Apr 14 16:51:26 2013
+        Coverge success ! ,the total table is:65699
+Sun Apr 14 16:52:01 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 16:52:02 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Sun Apr 14 16:52:02 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Sun Apr 14 16:52:01 2013
+ Begin to Compare the old and new data !
+Sun Apr 14 16:52:02 2013
+ New config.sh has been Created successfully!
+Sun Apr 14 16:52:02 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 19:48:05 CST 2013 Port A can be connect!
+Sun Apr 14 19:48:05 CST 2013 Port B can be connect!
+Sun Apr 14 19:48:05 CST 2013 Port C can be connect!
+Sun Apr 14 19:48:05 CST 2013 Port D can be connect!
+Sun Apr 14 19:48:05 CST 2013 Port E can be connect!
+Sun Apr 14 19:48:05 CST 2013 new.txt is not output
+Sun Apr 14 19:48:05 CST 2013 Config.sh not output
+Sun Apr 14 19:48:05 CST 2013 ipstatic.txt is not output
+Sun Apr 14 19:48:06 2013
+        The 0th port is A!
+Sun Apr 14 19:48:06 2013
+        The 1th port is B!
+Sun Apr 14 19:48:06 2013
+        The 2th port is C!
+Sun Apr 14 19:48:06 2013
+        The 3th port is D!
+Sun Apr 14 19:48:06 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 19:48:06 2013
+        The 0.0.0.0 is reserved Address!
+Sun Apr 14 19:48:06 2013
+        The 1.0.0.0 is reserved Address!
+Sun Apr 14 19:48:06 2013
+        The 121.18.213.224 is reserved Address!
+Sun Apr 14 19:48:06 2013
+        The 121.18.213.33 is reserved Address!
+Sun Apr 14 19:48:06 2013
+        The 211.99.216.0 is reserved Address!
+Sun Apr 14 19:48:06 2013
+        Begin to insert IP Address !
+Sun Apr 14 19:48:06 2013
+        Begin to query A's data in database!
+Sun Apr 14 19:48:06 2013
+        Begin to query B's data in database!
+Sun Apr 14 19:48:06 2013
+        Begin to query C's data in database!
+Sun Apr 14 19:48:06 2013
+        Begin to query D's data in database!
+Sun Apr 14 19:48:06 2013
+        Begin to query E's data in database!
+Sun Apr 14 19:48:06 2013
+        Begin to Coverge the IP Address !
+Sun Apr 14 19:48:06 2013
+        I have use 20.000000 seconds to coverge the list!
+Sun Apr 14 19:48:06 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Sun Apr 14 19:48:06 2013
+        Coverge success ! ,the total table is:64934
+Sun Apr 14 19:48:42 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 19:48:42 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Sun Apr 14 19:48:42 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Sun Apr 14 19:48:42 2013
+ Begin to Compare the old and new data !
+Sun Apr 14 19:48:42 2013
+ New config.sh has been Created successfully!
+Sun Apr 14 19:48:42 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 22:44:43 CST 2013 Port A can be connect!
+Sun Apr 14 22:44:43 CST 2013 Port B can be connect!
+Sun Apr 14 22:44:43 CST 2013 Port C can be connect!
+Sun Apr 14 22:44:43 CST 2013 Port D can be connect!
+Sun Apr 14 22:44:43 CST 2013 Port E can be connect!
+Sun Apr 14 22:44:43 CST 2013 new.txt is not output
+Sun Apr 14 22:44:43 CST 2013 Config.sh not output
+Sun Apr 14 22:44:43 CST 2013 ipstatic.txt is not output
+Sun Apr 14 22:44:44 2013
+        The 0th port is A!
+Sun Apr 14 22:44:44 2013
+        The 1th port is B!
+Sun Apr 14 22:44:44 2013
+        The 2th port is C!
+Sun Apr 14 22:44:44 2013
+        The 3th port is D!
+Sun Apr 14 22:44:44 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 22:44:44 2013
+        The 0.0.0.0 is reserved Address!
+Sun Apr 14 22:44:44 2013
+        The 1.0.0.0 is reserved Address!
+Sun Apr 14 22:44:44 2013
+        The 121.18.213.224 is reserved Address!
+Sun Apr 14 22:44:44 2013
+        The 121.18.213.33 is reserved Address!
+Sun Apr 14 22:44:44 2013
+        The 211.99.216.0 is reserved Address!
+Sun Apr 14 22:44:44 2013
+        Begin to insert IP Address !
+Sun Apr 14 22:44:44 2013
+        Begin to query A's data in database!
+Sun Apr 14 22:44:44 2013
+        Begin to query B's data in database!
+Sun Apr 14 22:44:44 2013
+        Begin to query C's data in database!
+Sun Apr 14 22:44:44 2013
+        Begin to query D's data in database!
+Sun Apr 14 22:44:44 2013
+        Begin to query E's data in database!
+Sun Apr 14 22:44:44 2013
+        Begin to Coverge the IP Address !
+Sun Apr 14 22:44:44 2013
+        I have use 20.000000 seconds to coverge the list!
+Sun Apr 14 22:44:44 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Sun Apr 14 22:44:44 2013
+        Coverge success ! ,the total table is:77619
+Sun Apr 14 22:45:24 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Sun Apr 14 22:45:24 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Sun Apr 14 22:45:24 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Sun Apr 14 22:45:24 2013
+ Begin to Compare the old and new data !
+Sun Apr 14 22:45:24 2013
+ New config.sh has been Created successfully!
+Sun Apr 14 22:45:24 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 02:13:59 CST 2013 Port A can be connect!
+Mon Apr 15 02:13:59 CST 2013 Port B can be connect!
+Mon Apr 15 02:13:59 CST 2013 Port C can be connect!
+Mon Apr 15 02:13:59 CST 2013 Port D can be connect!
+Mon Apr 15 02:13:59 CST 2013 Port E can be connect!
+Mon Apr 15 02:13:59 CST 2013 new.txt is not output
+Mon Apr 15 02:13:59 CST 2013 Config.sh not output
+Mon Apr 15 02:13:59 CST 2013 ipstatic.txt is not output
+Mon Apr 15 02:14:00 2013
+        The 0th port is A!
+Mon Apr 15 02:14:00 2013
+        The 1th port is B!
+Mon Apr 15 02:14:00 2013
+        The 2th port is C!
+Mon Apr 15 02:14:00 2013
+        The 3th port is D!
+Mon Apr 15 02:14:00 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 02:14:00 2013
+        The 0.0.0.0 is reserved Address!
+Mon Apr 15 02:14:00 2013
+        The 1.0.0.0 is reserved Address!
+Mon Apr 15 02:14:00 2013
+        The 121.18.213.224 is reserved Address!
+Mon Apr 15 02:14:00 2013
+        The 121.18.213.33 is reserved Address!
+Mon Apr 15 02:14:00 2013
+        The 211.99.216.0 is reserved Address!
+Mon Apr 15 02:14:00 2013
+        Begin to insert IP Address !
+Mon Apr 15 02:14:00 2013
+        Begin to query A's data in database!
+Mon Apr 15 02:14:00 2013
+        Begin to query B's data in database!
+Mon Apr 15 02:14:00 2013
+        Begin to query C's data in database!
+Mon Apr 15 02:14:00 2013
+        Begin to query D's data in database!
+Mon Apr 15 02:14:00 2013
+        Begin to query E's data in database!
+Mon Apr 15 02:14:00 2013
+        Begin to Coverge the IP Address !
+Mon Apr 15 02:14:00 2013
+        I have use 10.000000 seconds to coverge the list!
+Mon Apr 15 02:14:00 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Mon Apr 15 02:14:00 2013
+        Coverge success ! ,the total table is:54817
+Mon Apr 15 02:14:26 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 02:14:26 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Mon Apr 15 02:14:26 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Mon Apr 15 02:14:26 2013
+ Begin to Compare the old and new data !
+Mon Apr 15 02:14:26 2013
+ New config.sh has been Created successfully!
+Mon Apr 15 02:14:26 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 05:42:54 CST 2013 Port A can be connect!
+Mon Apr 15 05:42:54 CST 2013 Port B can be connect!
+Mon Apr 15 05:42:54 CST 2013 Port C can be connect!
+Mon Apr 15 05:42:54 CST 2013 Port D can be connect!
+Mon Apr 15 05:42:54 CST 2013 Port E can be connect!
+Mon Apr 15 05:42:54 CST 2013 new.txt is not output
+Mon Apr 15 05:42:55 CST 2013 Config.sh not output
+Mon Apr 15 05:42:55 CST 2013 ipstatic.txt is not output
+Mon Apr 15 05:42:56 2013
+        The 0th port is A!
+Mon Apr 15 05:42:56 2013
+        The 1th port is B!
+Mon Apr 15 05:42:56 2013
+        The 2th port is C!
+Mon Apr 15 05:42:56 2013
+        The 3th port is D!
+Mon Apr 15 05:42:56 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 05:42:56 2013
+        The 0.0.0.0 is reserved Address!
+Mon Apr 15 05:42:56 2013
+        The 1.0.0.0 is reserved Address!
+Mon Apr 15 05:42:56 2013
+        The 121.18.213.224 is reserved Address!
+Mon Apr 15 05:42:56 2013
+        The 121.18.213.33 is reserved Address!
+Mon Apr 15 05:42:56 2013
+        The 211.99.216.0 is reserved Address!
+Mon Apr 15 05:42:56 2013
+        Begin to insert IP Address !
+Mon Apr 15 05:42:56 2013
+        Begin to query A's data in database!
+Mon Apr 15 05:42:56 2013
+        Begin to query B's data in database!
+Mon Apr 15 05:42:56 2013
+        Begin to query C's data in database!
+Mon Apr 15 05:42:56 2013
+        Begin to query D's data in database!
+Mon Apr 15 05:42:56 2013
+        Begin to query E's data in database!
+Mon Apr 15 05:42:56 2013
+        Begin to Coverge the IP Address !
+Mon Apr 15 05:42:56 2013
+        I have use 10.000000 seconds to coverge the list!
+Mon Apr 15 05:42:56 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Mon Apr 15 05:42:56 2013
+        Coverge success ! ,the total table is:41926
+Mon Apr 15 05:43:14 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 05:43:14 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Mon Apr 15 05:43:14 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Mon Apr 15 05:43:14 2013
+ Begin to Compare the old and new data !
+Mon Apr 15 05:43:14 2013
+ New config.sh has been Created successfully!
+Mon Apr 15 05:43:14 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 09:04:09 CST 2013 Port A can be connect!
+Mon Apr 15 09:04:09 CST 2013 Port B can be connect!
+Mon Apr 15 09:04:09 CST 2013 Port C can be connect!
+Mon Apr 15 09:04:09 CST 2013 Port D can be connect!
+Mon Apr 15 09:04:09 CST 2013 Port E can be connect!
+Mon Apr 15 09:04:09 CST 2013 new.txt is not output
+Mon Apr 15 09:04:09 CST 2013 Config.sh not output
+Mon Apr 15 09:04:09 CST 2013 ipstatic.txt is not output
+Mon Apr 15 09:04:10 2013
+        The 0th port is A!
+Mon Apr 15 09:04:10 2013
+        The 1th port is B!
+Mon Apr 15 09:04:10 2013
+        The 2th port is C!
+Mon Apr 15 09:04:10 2013
+        The 3th port is D!
+Mon Apr 15 09:04:10 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 09:04:10 2013
+        The 0.0.0.0 is reserved Address!
+Mon Apr 15 09:04:10 2013
+        The 1.0.0.0 is reserved Address!
+Mon Apr 15 09:04:10 2013
+        The 121.18.213.224 is reserved Address!
+Mon Apr 15 09:04:10 2013
+        The 121.18.213.33 is reserved Address!
+Mon Apr 15 09:04:10 2013
+        The 211.99.216.0 is reserved Address!
+Mon Apr 15 09:04:10 2013
+        Begin to insert IP Address !
+Mon Apr 15 09:04:10 2013
+        Begin to query A's data in database!
+Mon Apr 15 09:04:10 2013
+        Begin to query B's data in database!
+Mon Apr 15 09:04:10 2013
+        Begin to query C's data in database!
+Mon Apr 15 09:04:10 2013
+        Begin to query D's data in database!
+Mon Apr 15 09:04:10 2013
+        Begin to query E's data in database!
+Mon Apr 15 09:04:10 2013
+        Begin to Coverge the IP Address !
+Mon Apr 15 09:04:10 2013
+        I have use 20.000000 seconds to coverge the list!
+Mon Apr 15 09:04:10 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Mon Apr 15 09:04:10 2013
+        Coverge success ! ,the total table is:45145
+Mon Apr 15 09:04:31 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 09:04:31 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Mon Apr 15 09:04:31 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Mon Apr 15 09:04:31 2013
+ Begin to Compare the old and new data !
+Mon Apr 15 09:04:31 2013
+ New config.sh has been Created successfully!
+Mon Apr 15 09:04:31 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 11:53:11 CST 2013 Port A can be connect!
+Mon Apr 15 11:53:11 CST 2013 Port B can be connect!
+Mon Apr 15 11:53:11 CST 2013 Port C can be connect!
+Mon Apr 15 11:53:11 CST 2013 Port D can be connect!
+Mon Apr 15 11:53:11 CST 2013 Port E can be connect!
+Mon Apr 15 11:53:11 CST 2013 new.txt is not output
+Mon Apr 15 11:53:11 CST 2013 Config.sh not output
+Mon Apr 15 11:53:11 CST 2013 ipstatic.txt is not output
+Mon Apr 15 11:53:12 2013
+        The 0th port is A!
+Mon Apr 15 11:53:12 2013
+        The 1th port is B!
+Mon Apr 15 11:53:12 2013
+        The 2th port is C!
+Mon Apr 15 11:53:12 2013
+        The 3th port is D!
+Mon Apr 15 11:53:12 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 11:53:12 2013
+        The 0.0.0.0 is reserved Address!
+Mon Apr 15 11:53:12 2013
+        The 1.0.0.0 is reserved Address!
+Mon Apr 15 11:53:12 2013
+        The 121.18.213.224 is reserved Address!
+Mon Apr 15 11:53:12 2013
+        The 121.18.213.33 is reserved Address!
+Mon Apr 15 11:53:12 2013
+        The 211.99.216.0 is reserved Address!
+Mon Apr 15 11:53:12 2013
+        Begin to insert IP Address !
+Mon Apr 15 11:53:12 2013
+        Begin to query A's data in database!
+Mon Apr 15 11:53:12 2013
+        Begin to query B's data in database!
+Mon Apr 15 11:53:12 2013
+        Begin to query C's data in database!
+Mon Apr 15 11:53:12 2013
+        Begin to query D's data in database!
+Mon Apr 15 11:53:12 2013
+        Begin to query E's data in database!
+Mon Apr 15 11:53:12 2013
+        Begin to Coverge the IP Address !
+Mon Apr 15 11:53:12 2013
+        I have use 20.000000 seconds to coverge the list!
+Mon Apr 15 11:53:12 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Mon Apr 15 11:53:12 2013
+        Coverge success ! ,the total table is:57633
+Mon Apr 15 11:53:41 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 11:53:41 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Mon Apr 15 11:53:41 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Mon Apr 15 11:53:41 2013
+ Begin to Compare the old and new data !
+Mon Apr 15 11:53:41 2013
+ New config.sh has been Created successfully!
+Mon Apr 15 11:53:42 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 14:45:43 CST 2013 Port A can be connect!
+Mon Apr 15 14:45:43 CST 2013 Port B can be connect!
+Mon Apr 15 14:45:43 CST 2013 Port C can be connect!
+Mon Apr 15 14:45:43 CST 2013 Port D can be connect!
+Mon Apr 15 14:45:43 CST 2013 Port E can be connect!
+Mon Apr 15 14:45:43 CST 2013 new.txt is not output
+Mon Apr 15 14:45:43 CST 2013 Config.sh not output
+Mon Apr 15 14:45:43 CST 2013 ipstatic.txt is not output
+Mon Apr 15 14:45:44 2013
+        The 0th port is A!
+Mon Apr 15 14:45:44 2013
+        The 1th port is B!
+Mon Apr 15 14:45:44 2013
+        The 2th port is C!
+Mon Apr 15 14:45:44 2013
+        The 3th port is D!
+Mon Apr 15 14:45:44 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 14:45:44 2013
+        The 0.0.0.0 is reserved Address!
+Mon Apr 15 14:45:44 2013
+        The 1.0.0.0 is reserved Address!
+Mon Apr 15 14:45:44 2013
+        The 121.18.213.224 is reserved Address!
+Mon Apr 15 14:45:44 2013
+        The 121.18.213.33 is reserved Address!
+Mon Apr 15 14:45:44 2013
+        The 211.99.216.0 is reserved Address!
+Mon Apr 15 14:45:44 2013
+        Begin to insert IP Address !
+Mon Apr 15 14:45:44 2013
+        Begin to query A's data in database!
+Mon Apr 15 14:45:44 2013
+        Begin to query B's data in database!
+Mon Apr 15 14:45:44 2013
+        Begin to query C's data in database!
+Mon Apr 15 14:45:44 2013
+        Begin to query D's data in database!
+Mon Apr 15 14:45:44 2013
+        Begin to query E's data in database!
+Mon Apr 15 14:45:44 2013
+        Begin to Coverge the IP Address !
+Mon Apr 15 14:45:44 2013
+        I have use 20.000000 seconds to coverge the list!
+Mon Apr 15 14:45:44 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Mon Apr 15 14:45:44 2013
+        Coverge success ! ,the total table is:66606
+Mon Apr 15 14:46:21 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 14:46:21 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Mon Apr 15 14:46:21 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Mon Apr 15 14:46:21 2013
+ Begin to Compare the old and new data !
+Mon Apr 15 14:46:21 2013
+ New config.sh has been Created successfully!
+Mon Apr 15 14:46:21 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 17:41:11 CST 2013 Port A can be connect!
+Mon Apr 15 17:41:11 CST 2013 Port B can be connect!
+Mon Apr 15 17:41:11 CST 2013 Port C can be connect!
+Mon Apr 15 17:41:11 CST 2013 Port D can be connect!
+Mon Apr 15 17:41:11 CST 2013 Port E can be connect!
+Mon Apr 15 17:41:11 CST 2013 new.txt is not output
+Mon Apr 15 17:41:11 CST 2013 Config.sh not output
+Mon Apr 15 17:41:11 CST 2013 ipstatic.txt is not output
+Mon Apr 15 17:41:12 2013
+        The 0th port is A!
+Mon Apr 15 17:41:12 2013
+        The 1th port is B!
+Mon Apr 15 17:41:12 2013
+        The 2th port is C!
+Mon Apr 15 17:41:12 2013
+        The 3th port is D!
+Mon Apr 15 17:41:12 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 17:41:12 2013
+        The 0.0.0.0 is reserved Address!
+Mon Apr 15 17:41:12 2013
+        The 1.0.0.0 is reserved Address!
+Mon Apr 15 17:41:12 2013
+        The 121.18.213.224 is reserved Address!
+Mon Apr 15 17:41:12 2013
+        The 121.18.213.33 is reserved Address!
+Mon Apr 15 17:41:12 2013
+        The 211.99.216.0 is reserved Address!
+Mon Apr 15 17:41:12 2013
+        Begin to insert IP Address !
+Mon Apr 15 17:41:12 2013
+        Begin to query A's data in database!
+Mon Apr 15 17:41:12 2013
+        Begin to query B's data in database!
+Mon Apr 15 17:41:12 2013
+        Begin to query C's data in database!
+Mon Apr 15 17:41:12 2013
+        Begin to query D's data in database!
+Mon Apr 15 17:41:12 2013
+        Begin to query E's data in database!
+Mon Apr 15 17:41:12 2013
+        Begin to Coverge the IP Address !
+Mon Apr 15 17:41:12 2013
+        I have use 10.000000 seconds to coverge the list!
+Mon Apr 15 17:41:12 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Mon Apr 15 17:41:12 2013
+        Coverge success ! ,the total table is:60413
+Mon Apr 15 17:41:43 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 17:41:43 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Mon Apr 15 17:41:43 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Mon Apr 15 17:41:43 2013
+ Begin to Compare the old and new data !
+Mon Apr 15 17:41:43 2013
+ New config.sh has been Created successfully!
+Mon Apr 15 17:41:43 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 20:38:48 CST 2013 Port A can be connect!
+Mon Apr 15 20:38:48 CST 2013 Port B can be connect!
+Mon Apr 15 20:38:48 CST 2013 Port C can be connect!
+Mon Apr 15 20:38:48 CST 2013 Port D can be connect!
+Mon Apr 15 20:38:48 CST 2013 Port E can be connect!
+Mon Apr 15 20:38:48 CST 2013 new.txt is not output
+Mon Apr 15 20:38:48 CST 2013 Config.sh not output
+Mon Apr 15 20:38:48 CST 2013 ipstatic.txt is not output
+Mon Apr 15 20:38:49 2013
+        The 0th port is A!
+Mon Apr 15 20:38:49 2013
+        The 1th port is B!
+Mon Apr 15 20:38:49 2013
+        The 2th port is C!
+Mon Apr 15 20:38:49 2013
+        The 3th port is D!
+Mon Apr 15 20:38:49 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 20:38:49 2013
+        The 0.0.0.0 is reserved Address!
+Mon Apr 15 20:38:49 2013
+        The 1.0.0.0 is reserved Address!
+Mon Apr 15 20:38:49 2013
+        The 121.18.213.224 is reserved Address!
+Mon Apr 15 20:38:49 2013
+        The 121.18.213.33 is reserved Address!
+Mon Apr 15 20:38:49 2013
+        The 211.99.216.0 is reserved Address!
+Mon Apr 15 20:38:49 2013
+        Begin to insert IP Address !
+Mon Apr 15 20:38:49 2013
+        Begin to query A's data in database!
+Mon Apr 15 20:38:49 2013
+        Begin to query B's data in database!
+Mon Apr 15 20:38:49 2013
+        Begin to query C's data in database!
+Mon Apr 15 20:38:49 2013
+        Begin to query D's data in database!
+Mon Apr 15 20:38:49 2013
+        Begin to query E's data in database!
+Mon Apr 15 20:38:49 2013
+        Begin to Coverge the IP Address !
+Mon Apr 15 20:38:49 2013
+        I have use 20.000000 seconds to coverge the list!
+Mon Apr 15 20:38:49 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Mon Apr 15 20:38:49 2013
+        Coverge success ! ,the total table is:63070
+Mon Apr 15 20:39:22 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 20:39:22 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Mon Apr 15 20:39:22 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Mon Apr 15 20:39:22 2013
+ Begin to Compare the old and new data !
+Mon Apr 15 20:39:22 2013
+ New config.sh has been Created successfully!
+Mon Apr 15 20:39:22 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 23:35:44 CST 2013 Port A can be connect!
+Mon Apr 15 23:35:44 CST 2013 Port B can be connect!
+Mon Apr 15 23:35:44 CST 2013 Port C can be connect!
+Mon Apr 15 23:35:44 CST 2013 Port D can be connect!
+Mon Apr 15 23:35:44 CST 2013 Port E can be connect!
+Mon Apr 15 23:35:44 CST 2013 new.txt is not output
+Mon Apr 15 23:35:44 CST 2013 Config.sh not output
+Mon Apr 15 23:35:44 CST 2013 ipstatic.txt is not output
+Mon Apr 15 23:35:45 2013
+        The 0th port is A!
+Mon Apr 15 23:35:45 2013
+        The 1th port is B!
+Mon Apr 15 23:35:45 2013
+        The 2th port is C!
+Mon Apr 15 23:35:45 2013
+        The 3th port is D!
+Mon Apr 15 23:35:45 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 23:35:45 2013
+        The 0.0.0.0 is reserved Address!
+Mon Apr 15 23:35:45 2013
+        The 1.0.0.0 is reserved Address!
+Mon Apr 15 23:35:45 2013
+        The 121.18.213.224 is reserved Address!
+Mon Apr 15 23:35:45 2013
+        The 121.18.213.33 is reserved Address!
+Mon Apr 15 23:35:45 2013
+        The 211.99.216.0 is reserved Address!
+Mon Apr 15 23:35:45 2013
+        Begin to insert IP Address !
+Mon Apr 15 23:35:45 2013
+        Begin to query A's data in database!
+Mon Apr 15 23:35:45 2013
+        Begin to query B's data in database!
+Mon Apr 15 23:35:45 2013
+        Begin to query C's data in database!
+Mon Apr 15 23:35:45 2013
+        Begin to query D's data in database!
+Mon Apr 15 23:35:45 2013
+        Begin to query E's data in database!
+Mon Apr 15 23:35:45 2013
+        Begin to Coverge the IP Address !
+Mon Apr 15 23:35:45 2013
+        I have use 20.000000 seconds to coverge the list!
+Mon Apr 15 23:35:45 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Mon Apr 15 23:35:45 2013
+        Coverge success ! ,the total table is:61290
+Mon Apr 15 23:36:15 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Mon Apr 15 23:36:15 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Mon Apr 15 23:36:15 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Mon Apr 15 23:36:15 2013
+ Begin to Compare the old and new data !
+Mon Apr 15 23:36:15 2013
+ New config.sh has been Created successfully!
+Mon Apr 15 23:36:15 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 03:01:50 CST 2013 Port A can be connect!
+Tue Apr 16 03:01:50 CST 2013 Port B can be connect!
+Tue Apr 16 03:01:50 CST 2013 Port C can be connect!
+Tue Apr 16 03:01:50 CST 2013 Port D can be connect!
+Tue Apr 16 03:01:50 CST 2013 Port E can be connect!
+Tue Apr 16 03:01:50 CST 2013 new.txt is not output
+Tue Apr 16 03:01:50 CST 2013 Config.sh not output
+Tue Apr 16 03:01:50 CST 2013 ipstatic.txt is not output
+Tue Apr 16 03:01:51 2013
+        The 0th port is A!
+Tue Apr 16 03:01:51 2013
+        The 1th port is B!
+Tue Apr 16 03:01:51 2013
+        The 2th port is C!
+Tue Apr 16 03:01:51 2013
+        The 3th port is D!
+Tue Apr 16 03:01:51 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 03:01:51 2013
+        The 0.0.0.0 is reserved Address!
+Tue Apr 16 03:01:51 2013
+        The 1.0.0.0 is reserved Address!
+Tue Apr 16 03:01:51 2013
+        The 121.18.213.224 is reserved Address!
+Tue Apr 16 03:01:51 2013
+        The 121.18.213.33 is reserved Address!
+Tue Apr 16 03:01:51 2013
+        The 211.99.216.0 is reserved Address!
+Tue Apr 16 03:01:51 2013
+        Begin to insert IP Address !
+Tue Apr 16 03:01:51 2013
+        Begin to query A's data in database!
+Tue Apr 16 03:01:51 2013
+        Begin to query B's data in database!
+Tue Apr 16 03:01:51 2013
+        Begin to query C's data in database!
+Tue Apr 16 03:01:51 2013
+        Begin to query D's data in database!
+Tue Apr 16 03:01:51 2013
+        Begin to query E's data in database!
+Tue Apr 16 03:01:51 2013
+        Begin to Coverge the IP Address !
+Tue Apr 16 03:01:51 2013
+        I have use 20.000000 seconds to coverge the list!
+Tue Apr 16 03:01:51 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Tue Apr 16 03:01:51 2013
+        Coverge success ! ,the total table is:49528
+Tue Apr 16 03:02:13 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 03:02:13 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Tue Apr 16 03:02:13 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Tue Apr 16 03:02:13 2013
+ Begin to Compare the old and new data !
+Tue Apr 16 03:02:13 2013
+ New config.sh has been Created successfully!
+Tue Apr 16 03:02:13 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 06:25:44 CST 2013 Port A can be connect!
+Tue Apr 16 06:25:44 CST 2013 Port B can be connect!
+Tue Apr 16 06:25:44 CST 2013 Port C can be connect!
+Tue Apr 16 06:25:44 CST 2013 Port D can be connect!
+Tue Apr 16 06:25:44 CST 2013 Port E can be connect!
+Tue Apr 16 06:25:44 CST 2013 new.txt is not output
+Tue Apr 16 06:25:44 CST 2013 Config.sh not output
+Tue Apr 16 06:25:44 CST 2013 ipstatic.txt is not output
+Tue Apr 16 06:25:45 2013
+        The 0th port is A!
+Tue Apr 16 06:25:45 2013
+        The 1th port is B!
+Tue Apr 16 06:25:45 2013
+        The 2th port is C!
+Tue Apr 16 06:25:45 2013
+        The 3th port is D!
+Tue Apr 16 06:25:45 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 06:25:45 2013
+        The 0.0.0.0 is reserved Address!
+Tue Apr 16 06:25:45 2013
+        The 1.0.0.0 is reserved Address!
+Tue Apr 16 06:25:45 2013
+        The 121.18.213.224 is reserved Address!
+Tue Apr 16 06:25:45 2013
+        The 121.18.213.33 is reserved Address!
+Tue Apr 16 06:25:45 2013
+        The 211.99.216.0 is reserved Address!
+Tue Apr 16 06:25:45 2013
+        Begin to insert IP Address !
+Tue Apr 16 06:25:45 2013
+        Begin to query A's data in database!
+Tue Apr 16 06:25:45 2013
+        Begin to query B's data in database!
+Tue Apr 16 06:25:45 2013
+        Begin to query C's data in database!
+Tue Apr 16 06:25:45 2013
+        Begin to query D's data in database!
+Tue Apr 16 06:25:45 2013
+        Begin to query E's data in database!
+Tue Apr 16 06:25:45 2013
+        Begin to Coverge the IP Address !
+Tue Apr 16 06:25:45 2013
+        I have use 20.000000 seconds to coverge the list!
+Tue Apr 16 06:25:45 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Tue Apr 16 06:25:45 2013
+        Coverge success ! ,the total table is:44234
+Tue Apr 16 06:26:05 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 06:26:05 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Tue Apr 16 06:26:05 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Tue Apr 16 06:26:05 2013
+ Begin to Compare the old and new data !
+Tue Apr 16 06:26:05 2013
+ New config.sh has been Created successfully!
+Tue Apr 16 06:26:05 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 09:15:32 CST 2013 Port A can be connect!
+Tue Apr 16 09:15:32 CST 2013 Port B can be connect!
+Tue Apr 16 09:15:32 CST 2013 Port C can be connect!
+Tue Apr 16 09:15:32 CST 2013 Port D can be connect!
+Tue Apr 16 09:15:32 CST 2013 Port E can be connect!
+Tue Apr 16 09:15:32 CST 2013 new.txt is not output
+Tue Apr 16 09:15:32 CST 2013 Config.sh not output
+Tue Apr 16 09:15:32 CST 2013 ipstatic.txt is not output
+Tue Apr 16 09:15:33 2013
+        The 0th port is A!
+Tue Apr 16 09:15:33 2013
+        The 1th port is B!
+Tue Apr 16 09:15:33 2013
+        The 2th port is C!
+Tue Apr 16 09:15:33 2013
+        The 3th port is D!
+Tue Apr 16 09:15:33 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 09:15:33 2013
+        The 0.0.0.0 is reserved Address!
+Tue Apr 16 09:15:33 2013
+        The 1.0.0.0 is reserved Address!
+Tue Apr 16 09:15:33 2013
+        The 121.18.213.224 is reserved Address!
+Tue Apr 16 09:15:33 2013
+        The 121.18.213.33 is reserved Address!
+Tue Apr 16 09:15:33 2013
+        The 211.99.216.0 is reserved Address!
+Tue Apr 16 09:15:33 2013
+        Begin to insert IP Address !
+Tue Apr 16 09:15:33 2013
+        Begin to query A's data in database!
+Tue Apr 16 09:15:33 2013
+        Begin to query B's data in database!
+Tue Apr 16 09:15:33 2013
+        Begin to query C's data in database!
+Tue Apr 16 09:15:33 2013
+        Begin to query D's data in database!
+Tue Apr 16 09:15:33 2013
+        Begin to query E's data in database!
+Tue Apr 16 09:15:33 2013
+        Begin to Coverge the IP Address !
+Tue Apr 16 09:15:33 2013
+        I have use 20.000000 seconds to coverge the list!
+Tue Apr 16 09:15:33 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Tue Apr 16 09:15:33 2013
+        Coverge success ! ,the total table is:50633
+Tue Apr 16 09:15:59 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 09:16:00 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Tue Apr 16 09:16:00 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Tue Apr 16 09:15:59 2013
+ Begin to Compare the old and new data !
+Tue Apr 16 09:16:00 2013
+ New config.sh has been Created successfully!
+Tue Apr 16 09:16:00 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 12:05:57 CST 2013 Port A can be connect!
+Tue Apr 16 12:05:57 CST 2013 Port B can be connect!
+Tue Apr 16 12:05:57 CST 2013 Port C can be connect!
+Tue Apr 16 12:05:57 CST 2013 Port D can be connect!
+Tue Apr 16 12:05:57 CST 2013 Port E can be connect!
+Tue Apr 16 12:05:57 CST 2013 new.txt is not output
+Tue Apr 16 12:05:57 CST 2013 Config.sh not output
+Tue Apr 16 12:05:57 CST 2013 ipstatic.txt is not output
+Tue Apr 16 12:05:58 2013
+        The 0th port is A!
+Tue Apr 16 12:05:58 2013
+        The 1th port is B!
+Tue Apr 16 12:05:58 2013
+        The 2th port is C!
+Tue Apr 16 12:05:58 2013
+        The 3th port is D!
+Tue Apr 16 12:05:58 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 12:05:58 2013
+        The 0.0.0.0 is reserved Address!
+Tue Apr 16 12:05:58 2013
+        The 1.0.0.0 is reserved Address!
+Tue Apr 16 12:05:58 2013
+        The 121.18.213.224 is reserved Address!
+Tue Apr 16 12:05:58 2013
+        The 121.18.213.33 is reserved Address!
+Tue Apr 16 12:05:58 2013
+        The 211.99.216.0 is reserved Address!
+Tue Apr 16 12:05:58 2013
+        Begin to insert IP Address !
+Tue Apr 16 12:05:58 2013
+        Begin to query A's data in database!
+Tue Apr 16 12:05:58 2013
+        Begin to query B's data in database!
+Tue Apr 16 12:05:58 2013
+        Begin to query C's data in database!
+Tue Apr 16 12:05:58 2013
+        Begin to query D's data in database!
+Tue Apr 16 12:05:58 2013
+        Begin to query E's data in database!
+Tue Apr 16 12:05:58 2013
+        Begin to Coverge the IP Address !
+Tue Apr 16 12:05:58 2013
+        I have use 20.000000 seconds to coverge the list!
+Tue Apr 16 12:05:58 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Tue Apr 16 12:05:58 2013
+        Coverge success ! ,the total table is:53887
+Tue Apr 16 12:06:26 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 12:06:26 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Tue Apr 16 12:06:26 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Tue Apr 16 12:06:26 2013
+ Begin to Compare the old and new data !
+Tue Apr 16 12:06:26 2013
+ New config.sh has been Created successfully!
+Tue Apr 16 12:06:26 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 14:58:15 CST 2013 Port A can be connect!
+Tue Apr 16 14:58:15 CST 2013 Port B can be connect!
+Tue Apr 16 14:58:15 CST 2013 Port C can be connect!
+Tue Apr 16 14:58:15 CST 2013 Port D can be connect!
+Tue Apr 16 14:58:15 CST 2013 Port E can be connect!
+Tue Apr 16 14:58:15 CST 2013 new.txt is not output
+Tue Apr 16 14:58:15 CST 2013 Config.sh not output
+Tue Apr 16 14:58:15 CST 2013 ipstatic.txt is not output
+Tue Apr 16 14:58:16 2013
+        The 0th port is A!
+Tue Apr 16 14:58:16 2013
+        The 1th port is B!
+Tue Apr 16 14:58:16 2013
+        The 2th port is C!
+Tue Apr 16 14:58:16 2013
+        The 3th port is D!
+Tue Apr 16 14:58:16 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 14:58:16 2013
+        The 0.0.0.0 is reserved Address!
+Tue Apr 16 14:58:16 2013
+        The 1.0.0.0 is reserved Address!
+Tue Apr 16 14:58:16 2013
+        The 121.18.213.224 is reserved Address!
+Tue Apr 16 14:58:16 2013
+        The 121.18.213.33 is reserved Address!
+Tue Apr 16 14:58:16 2013
+        The 211.99.216.0 is reserved Address!
+Tue Apr 16 14:58:16 2013
+        Begin to insert IP Address !
+Tue Apr 16 14:58:16 2013
+        Begin to query A's data in database!
+Tue Apr 16 14:58:16 2013
+        Begin to query B's data in database!
+Tue Apr 16 14:58:16 2013
+        Begin to query C's data in database!
+Tue Apr 16 14:58:16 2013
+        Begin to query D's data in database!
+Tue Apr 16 14:58:16 2013
+        Begin to query E's data in database!
+Tue Apr 16 14:58:16 2013
+        Begin to Coverge the IP Address !
+Tue Apr 16 14:58:16 2013
+        I have use 20.000000 seconds to coverge the list!
+Tue Apr 16 14:58:16 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Tue Apr 16 14:58:16 2013
+        Coverge success ! ,the total table is:59673
+Tue Apr 16 14:58:48 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 14:58:48 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Tue Apr 16 14:58:48 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Tue Apr 16 14:58:48 2013
+ Begin to Compare the old and new data !
+Tue Apr 16 14:58:48 2013
+ New config.sh has been Created successfully!
+Tue Apr 16 14:58:48 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 17:51:03 CST 2013 Port A can be connect!
+Tue Apr 16 17:51:03 CST 2013 Port B can be connect!
+Tue Apr 16 17:51:03 CST 2013 Port C can be connect!
+Tue Apr 16 17:51:03 CST 2013 Port D can be connect!
+Tue Apr 16 17:51:03 CST 2013 Port E can be connect!
+Tue Apr 16 17:51:03 CST 2013 new.txt is not output
+Tue Apr 16 17:51:03 CST 2013 Config.sh not output
+Tue Apr 16 17:51:03 CST 2013 ipstatic.txt is not output
+Tue Apr 16 17:51:04 2013
+        The 0th port is A!
+Tue Apr 16 17:51:04 2013
+        The 1th port is B!
+Tue Apr 16 17:51:04 2013
+        The 2th port is C!
+Tue Apr 16 17:51:04 2013
+        The 3th port is D!
+Tue Apr 16 17:51:04 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 17:51:04 2013
+        The 0.0.0.0 is reserved Address!
+Tue Apr 16 17:51:04 2013
+        The 1.0.0.0 is reserved Address!
+Tue Apr 16 17:51:04 2013
+        The 121.18.213.224 is reserved Address!
+Tue Apr 16 17:51:04 2013
+        The 121.18.213.33 is reserved Address!
+Tue Apr 16 17:51:04 2013
+        The 211.99.216.0 is reserved Address!
+Tue Apr 16 17:51:04 2013
+        Begin to insert IP Address !
+Tue Apr 16 17:51:04 2013
+        Begin to query A's data in database!
+Tue Apr 16 17:51:04 2013
+        Begin to query B's data in database!
+Tue Apr 16 17:51:04 2013
+        Begin to query C's data in database!
+Tue Apr 16 17:51:04 2013
+        Begin to query D's data in database!
+Tue Apr 16 17:51:04 2013
+        Begin to query E's data in database!
+Tue Apr 16 17:51:04 2013
+        Begin to Coverge the IP Address !
+Tue Apr 16 17:51:04 2013
+        I have use 20.000000 seconds to coverge the list!
+Tue Apr 16 17:51:04 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Tue Apr 16 17:51:04 2013
+        Coverge success ! ,the total table is:59564
+Tue Apr 16 17:51:35 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 17:51:35 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Tue Apr 16 17:51:35 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Tue Apr 16 17:51:35 2013
+ Begin to Compare the old and new data !
+Tue Apr 16 17:51:35 2013
+ New config.sh has been Created successfully!
+Tue Apr 16 17:51:35 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 20:45:23 CST 2013 Port A can be connect!
+Tue Apr 16 20:45:23 CST 2013 Port B can be connect!
+Tue Apr 16 20:45:23 CST 2013 Port C can be connect!
+Tue Apr 16 20:45:23 CST 2013 Port D can be connect!
+Tue Apr 16 20:45:23 CST 2013 Port E can be connect!
+Tue Apr 16 20:45:23 CST 2013 new.txt is not output
+Tue Apr 16 20:45:23 CST 2013 Config.sh not output
+Tue Apr 16 20:45:23 CST 2013 ipstatic.txt is not output
+Tue Apr 16 20:45:24 2013
+        The 0th port is A!
+Tue Apr 16 20:45:24 2013
+        The 1th port is B!
+Tue Apr 16 20:45:24 2013
+        The 2th port is C!
+Tue Apr 16 20:45:24 2013
+        The 3th port is D!
+Tue Apr 16 20:45:24 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 20:45:24 2013
+        The 0.0.0.0 is reserved Address!
+Tue Apr 16 20:45:24 2013
+        The 1.0.0.0 is reserved Address!
+Tue Apr 16 20:45:24 2013
+        The 121.18.213.224 is reserved Address!
+Tue Apr 16 20:45:24 2013
+        The 121.18.213.33 is reserved Address!
+Tue Apr 16 20:45:24 2013
+        The 211.99.216.0 is reserved Address!
+Tue Apr 16 20:45:24 2013
+        Begin to insert IP Address !
+Tue Apr 16 20:45:24 2013
+        Begin to query A's data in database!
+Tue Apr 16 20:45:24 2013
+        Begin to query B's data in database!
+Tue Apr 16 20:45:24 2013
+        Begin to query C's data in database!
+Tue Apr 16 20:45:24 2013
+        Begin to query D's data in database!
+Tue Apr 16 20:45:24 2013
+        Begin to query E's data in database!
+Tue Apr 16 20:45:24 2013
+        Begin to Coverge the IP Address !
+Tue Apr 16 20:45:24 2013
+        I have use 20.000000 seconds to coverge the list!
+Tue Apr 16 20:45:24 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Tue Apr 16 20:45:24 2013
+        Coverge success ! ,the total table is:67332
+Tue Apr 16 20:46:00 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 20:46:00 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Tue Apr 16 20:46:00 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Tue Apr 16 20:46:00 2013
+ Begin to Compare the old and new data !
+Tue Apr 16 20:46:00 2013
+ New config.sh has been Created successfully!
+Tue Apr 16 20:46:00 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 23:40:25 CST 2013 Port A can be connect!
+Tue Apr 16 23:40:25 CST 2013 Port B can be connect!
+Tue Apr 16 23:40:25 CST 2013 Port C can be connect!
+Tue Apr 16 23:40:25 CST 2013 Port D can be connect!
+Tue Apr 16 23:40:25 CST 2013 Port E can be connect!
+Tue Apr 16 23:40:25 CST 2013 new.txt is not output
+Tue Apr 16 23:40:25 CST 2013 Config.sh not output
+Tue Apr 16 23:40:25 CST 2013 ipstatic.txt is not output
+Tue Apr 16 23:40:26 2013
+        The 0th port is A!
+Tue Apr 16 23:40:26 2013
+        The 1th port is B!
+Tue Apr 16 23:40:26 2013
+        The 2th port is C!
+Tue Apr 16 23:40:26 2013
+        The 3th port is D!
+Tue Apr 16 23:40:26 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 23:40:26 2013
+        The 0.0.0.0 is reserved Address!
+Tue Apr 16 23:40:26 2013
+        The 1.0.0.0 is reserved Address!
+Tue Apr 16 23:40:26 2013
+        The 121.18.213.224 is reserved Address!
+Tue Apr 16 23:40:26 2013
+        The 121.18.213.33 is reserved Address!
+Tue Apr 16 23:40:26 2013
+        The 211.99.216.0 is reserved Address!
+Tue Apr 16 23:40:26 2013
+        Begin to insert IP Address !
+Tue Apr 16 23:40:26 2013
+        Begin to query A's data in database!
+Tue Apr 16 23:40:26 2013
+        Begin to query B's data in database!
+Tue Apr 16 23:40:26 2013
+        Begin to query C's data in database!
+Tue Apr 16 23:40:26 2013
+        Begin to query D's data in database!
+Tue Apr 16 23:40:26 2013
+        Begin to query E's data in database!
+Tue Apr 16 23:40:26 2013
+        Begin to Coverge the IP Address !
+Tue Apr 16 23:40:26 2013
+        I have use 20.000000 seconds to coverge the list!
+Tue Apr 16 23:40:26 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Tue Apr 16 23:40:26 2013
+        Coverge success ! ,the total table is:66007
+Tue Apr 16 23:41:02 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Tue Apr 16 23:41:02 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Tue Apr 16 23:41:02 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Tue Apr 16 23:41:02 2013
+ Begin to Compare the old and new data !
+Tue Apr 16 23:41:02 2013
+ New config.sh has been Created successfully!
+Tue Apr 16 23:41:02 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 17 03:10:32 CST 2013 Port A can be connect!
+Wed Apr 17 03:10:32 CST 2013 Port B can be connect!
+Wed Apr 17 03:10:32 CST 2013 Port C can be connect!
+Wed Apr 17 03:10:32 CST 2013 Port D can be connect!
+Wed Apr 17 03:10:32 CST 2013 Port E can be connect!
+Wed Apr 17 03:10:32 CST 2013 new.txt is not output
+Wed Apr 17 03:10:32 CST 2013 Config.sh not output
+Wed Apr 17 03:10:32 CST 2013 ipstatic.txt is not output
+Wed Apr 17 03:10:33 2013
+        The 0th port is A!
+Wed Apr 17 03:10:33 2013
+        The 1th port is B!
+Wed Apr 17 03:10:33 2013
+        The 2th port is C!
+Wed Apr 17 03:10:33 2013
+        The 3th port is D!
+Wed Apr 17 03:10:33 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 17 03:10:33 2013
+        The 0.0.0.0 is reserved Address!
+Wed Apr 17 03:10:33 2013
+        The 1.0.0.0 is reserved Address!
+Wed Apr 17 03:10:33 2013
+        The 121.18.213.224 is reserved Address!
+Wed Apr 17 03:10:33 2013
+        The 121.18.213.33 is reserved Address!
+Wed Apr 17 03:10:33 2013
+        The 211.99.216.0 is reserved Address!
+Wed Apr 17 03:10:33 2013
+        Begin to insert IP Address !
+Wed Apr 17 03:10:33 2013
+        Begin to query A's data in database!
+Wed Apr 17 03:10:33 2013
+        Begin to query B's data in database!
+Wed Apr 17 03:10:33 2013
+        Begin to query C's data in database!
+Wed Apr 17 03:10:33 2013
+        Begin to query D's data in database!
+Wed Apr 17 03:10:33 2013
+        Begin to query E's data in database!
+Wed Apr 17 03:10:33 2013
+        Begin to Coverge the IP Address !
+Wed Apr 17 03:10:33 2013
+        I have use 20.000000 seconds to coverge the list!
+Wed Apr 17 03:10:33 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Wed Apr 17 03:10:33 2013
+        Coverge success ! ,the total table is:48253
+Wed Apr 17 03:10:54 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 17 03:10:54 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Wed Apr 17 03:10:54 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Wed Apr 17 03:10:54 2013
+ Begin to Compare the old and new data !
+Wed Apr 17 03:10:54 2013
+ New config.sh has been Created successfully!
+Wed Apr 17 03:10:54 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 17 06:35:21 CST 2013 Port A can be connect!
+Wed Apr 17 06:35:21 CST 2013 Port B can be connect!
+Wed Apr 17 06:35:21 CST 2013 Port C can be connect!
+Wed Apr 17 06:35:21 CST 2013 Port D can be connect!
+Wed Apr 17 06:35:21 CST 2013 Port E can be connect!
+Wed Apr 17 06:35:21 CST 2013 new.txt is not output
+Wed Apr 17 06:35:21 CST 2013 Config.sh not output
+Wed Apr 17 06:35:21 CST 2013 ipstatic.txt is not output
+Wed Apr 17 06:35:22 2013
+        The 0th port is A!
+Wed Apr 17 06:35:22 2013
+        The 1th port is B!
+Wed Apr 17 06:35:22 2013
+        The 2th port is C!
+Wed Apr 17 06:35:22 2013
+        The 3th port is D!
+Wed Apr 17 06:35:22 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 17 06:35:22 2013
+        The 0.0.0.0 is reserved Address!
+Wed Apr 17 06:35:22 2013
+        The 1.0.0.0 is reserved Address!
+Wed Apr 17 06:35:22 2013
+        The 121.18.213.224 is reserved Address!
+Wed Apr 17 06:35:22 2013
+        The 121.18.213.33 is reserved Address!
+Wed Apr 17 06:35:22 2013
+        The 211.99.216.0 is reserved Address!
+Wed Apr 17 06:35:22 2013
+        Begin to insert IP Address !
+Wed Apr 17 06:35:22 2013
+        Begin to query A's data in database!
+Wed Apr 17 06:35:22 2013
+        Begin to query B's data in database!
+Wed Apr 17 06:35:22 2013
+        Begin to query C's data in database!
+Wed Apr 17 06:35:22 2013
+        Begin to query D's data in database!
+Wed Apr 17 06:35:22 2013
+        Begin to query E's data in database!
+Wed Apr 17 06:35:22 2013
+        Begin to Coverge the IP Address !
+Wed Apr 17 06:35:22 2013
+        I have use 10.000000 seconds to coverge the list!
+Wed Apr 17 06:35:22 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Wed Apr 17 06:35:22 2013
+        Coverge success ! ,the total table is:45041
+Wed Apr 17 06:35:41 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 17 06:35:41 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Wed Apr 17 06:35:41 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Wed Apr 17 06:35:41 2013
+ Begin to Compare the old and new data !
+Wed Apr 17 06:35:41 2013
+ New config.sh has been Created successfully!
+Wed Apr 17 06:35:41 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 17 09:55:34 CST 2013 Port A can be connect!
+Wed Apr 17 09:55:34 CST 2013 Port B can be connect!
+Wed Apr 17 09:55:34 CST 2013 Port C can be connect!
+Wed Apr 17 09:55:34 CST 2013 Port D can be connect!
+Wed Apr 17 09:55:34 CST 2013 Port E can be connect!
+Wed Apr 17 09:55:34 CST 2013 new.txt is not output
+Wed Apr 17 09:55:34 CST 2013 Config.sh not output
+Wed Apr 17 09:55:34 CST 2013 ipstatic.txt is not output
+Wed Apr 17 09:55:35 2013
+        The 0th port is A!
+Wed Apr 17 09:55:35 2013
+        The 1th port is B!
+Wed Apr 17 09:55:35 2013
+        The 2th port is C!
+Wed Apr 17 09:55:35 2013
+        The 3th port is D!
+Wed Apr 17 09:55:35 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 17 09:55:35 2013
+        The 0.0.0.0 is reserved Address!
+Wed Apr 17 09:55:35 2013
+        The 1.0.0.0 is reserved Address!
+Wed Apr 17 09:55:35 2013
+        The 121.18.213.224 is reserved Address!
+Wed Apr 17 09:55:35 2013
+        The 121.18.213.33 is reserved Address!
+Wed Apr 17 09:55:35 2013
+        The 211.99.216.0 is reserved Address!
+Wed Apr 17 09:55:35 2013
+        Begin to insert IP Address !
+Wed Apr 17 09:55:35 2013
+        Begin to query A's data in database!
+Wed Apr 17 09:55:35 2013
+        Begin to query B's data in database!
+Wed Apr 17 09:55:35 2013
+        Begin to query C's data in database!
+Wed Apr 17 09:55:35 2013
+        Begin to query D's data in database!
+Wed Apr 17 09:55:35 2013
+        Begin to query E's data in database!
+Wed Apr 17 09:55:35 2013
+        Begin to Coverge the IP Address !
+Wed Apr 17 09:55:35 2013
+        I have use 20.000000 seconds to coverge the list!
+Wed Apr 17 09:55:35 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Wed Apr 17 09:55:35 2013
+        Coverge success ! ,the total table is:48463
+Wed Apr 17 09:56:01 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 17 09:56:01 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Wed Apr 17 09:56:01 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Wed Apr 17 09:56:01 2013
+ Begin to Compare the old and new data !
+Wed Apr 17 09:56:01 2013
+ New config.sh has been Created successfully!
+Wed Apr 17 09:56:01 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 17 12:46:06 CST 2013 Port A can be connect!
+Wed Apr 17 12:46:06 CST 2013 Port B can be connect!
+Wed Apr 17 12:46:06 CST 2013 Port C can be connect!
+Wed Apr 17 12:46:06 CST 2013 Port D can be connect!
+Wed Apr 17 12:46:06 CST 2013 Port E can be connect!
+Wed Apr 17 12:46:06 CST 2013 new.txt is not output
+Wed Apr 17 12:46:06 CST 2013 Config.sh not output
+Wed Apr 17 12:46:06 CST 2013 ipstatic.txt is not output
+Wed Apr 17 12:46:07 2013
+        The 0th port is A!
+Wed Apr 17 12:46:07 2013
+        The 1th port is B!
+Wed Apr 17 12:46:07 2013
+        The 2th port is C!
+Wed Apr 17 12:46:07 2013
+        The 3th port is D!
+Wed Apr 17 12:46:07 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 17 12:46:07 2013
+        The 0.0.0.0 is reserved Address!
+Wed Apr 17 12:46:07 2013
+        The 1.0.0.0 is reserved Address!
+Wed Apr 17 12:46:07 2013
+        The 121.18.213.224 is reserved Address!
+Wed Apr 17 12:46:07 2013
+        The 121.18.213.33 is reserved Address!
+Wed Apr 17 12:46:07 2013
+        The 211.99.216.0 is reserved Address!
+Wed Apr 17 12:46:07 2013
+        Begin to insert IP Address !
+Wed Apr 17 12:46:07 2013
+        Begin to query A's data in database!
+Wed Apr 17 12:46:07 2013
+        Begin to query B's data in database!
+Wed Apr 17 12:46:07 2013
+        Begin to query C's data in database!
+Wed Apr 17 12:46:07 2013
+        Begin to query D's data in database!
+Wed Apr 17 12:46:07 2013
+        Begin to query E's data in database!
+Wed Apr 17 12:46:07 2013
+        Begin to Coverge the IP Address !
+Wed Apr 17 12:46:07 2013
+        I have use 20.000000 seconds to coverge the list!
+Wed Apr 17 12:46:07 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Wed Apr 17 12:46:07 2013
+        Coverge success ! ,the total table is:62224
+Wed Apr 17 12:46:43 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 17 12:46:43 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Wed Apr 17 12:46:43 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Wed Apr 17 12:46:43 2013
+ Begin to Compare the old and new data !
+Wed Apr 17 12:46:43 2013
+ New config.sh has been Created successfully!
+Wed Apr 17 12:46:43 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 17 15:39:09 CST 2013 Port A can be connect!
+Wed Apr 17 15:39:09 CST 2013 Port B can be connect!
+Wed Apr 17 15:39:09 CST 2013 Port C can be connect!
+Wed Apr 17 15:39:09 CST 2013 Port D can be connect!
+Wed Apr 17 15:39:09 CST 2013 Port E can be connect!
+Wed Apr 17 15:39:09 CST 2013 new.txt is not output
+Wed Apr 17 15:39:09 CST 2013 Config.sh not output
+Wed Apr 17 15:39:09 CST 2013 ipstatic.txt is not output
+Wed Apr 17 15:39:10 2013
+        The 0th port is A!
+Wed Apr 17 15:39:10 2013
+        The 1th port is B!
+Wed Apr 17 15:39:10 2013
+        The 2th port is C!
+Wed Apr 17 15:39:10 2013
+        The 3th port is D!
+Wed Apr 17 15:39:10 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 17 15:39:10 2013
+        The 0.0.0.0 is reserved Address!
+Wed Apr 17 15:39:10 2013
+        The 1.0.0.0 is reserved Address!
+Wed Apr 17 15:39:10 2013
+        The 121.18.213.224 is reserved Address!
+Wed Apr 17 15:39:10 2013
+        The 121.18.213.33 is reserved Address!
+Wed Apr 17 15:39:10 2013
+        The 211.99.216.0 is reserved Address!
+Wed Apr 17 15:39:10 2013
+        Begin to insert IP Address !
+Wed Apr 17 15:39:10 2013
+        Begin to query A's data in database!
+Wed Apr 17 15:39:10 2013
+        Begin to query B's data in database!
+Wed Apr 17 15:39:10 2013
+        Begin to query C's data in database!
+Wed Apr 17 15:39:10 2013
+        Begin to query D's data in database!
+Wed Apr 17 15:39:10 2013
+        Begin to query E's data in database!
+Wed Apr 17 15:39:10 2013
+        Begin to Coverge the IP Address !
+Wed Apr 17 15:39:10 2013
+        I have use 20.000000 seconds to coverge the list!
+Wed Apr 17 15:39:10 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Wed Apr 17 15:39:10 2013
+        Coverge success ! ,the total table is:68787
+Wed Apr 17 15:39:47 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 17 15:39:47 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Wed Apr 17 15:39:47 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Wed Apr 17 15:39:47 2013
+ Begin to Compare the old and new data !
+Wed Apr 17 15:39:47 2013
+ New config.sh has been Created successfully!
+Wed Apr 17 15:39:47 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 17 18:36:35 CST 2013 Port A can be connect!
+Wed Apr 17 18:36:35 CST 2013 Port B can be connect!
+Wed Apr 17 18:36:35 CST 2013 Port C can be connect!
+Wed Apr 17 18:36:35 CST 2013 Port D can be connect!
+Wed Apr 17 18:36:35 CST 2013 Port E can be connect!
+Wed Apr 17 18:36:35 CST 2013 new.txt is not output
+Wed Apr 17 18:36:35 CST 2013 Config.sh not output
+Wed Apr 17 18:36:35 CST 2013 ipstatic.txt is not output
+Wed Apr 17 18:36:36 2013
+        The 0th port is A!
+Wed Apr 17 18:36:36 2013
+        The 1th port is B!
+Wed Apr 17 18:36:36 2013
+        The 2th port is C!
+Wed Apr 17 18:36:36 2013
+        The 3th port is D!
+Wed Apr 17 18:36:36 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 17 18:36:36 2013
+        The 0.0.0.0 is reserved Address!
+Wed Apr 17 18:36:36 2013
+        The 1.0.0.0 is reserved Address!
+Wed Apr 17 18:36:36 2013
+        The 121.18.213.224 is reserved Address!
+Wed Apr 17 18:36:36 2013
+        The 121.18.213.33 is reserved Address!
+Wed Apr 17 18:36:36 2013
+        The 211.99.216.0 is reserved Address!
+Wed Apr 17 18:36:36 2013
+        Begin to insert IP Address !
+Wed Apr 17 18:36:36 2013
+        Begin to query A's data in database!
+Wed Apr 17 18:36:36 2013
+        Begin to query B's data in database!
+Wed Apr 17 18:36:36 2013
+        Begin to query C's data in database!
+Wed Apr 17 18:36:36 2013
+        Begin to query D's data in database!
+Wed Apr 17 18:36:36 2013
+        Begin to query E's data in database!
+Wed Apr 17 18:36:36 2013
+        Begin to Coverge the IP Address !
+Wed Apr 17 18:36:36 2013
+        I have use 30.000000 seconds to coverge the list!
+Wed Apr 17 18:36:36 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Wed Apr 17 18:36:36 2013
+        Coverge success ! ,the total table is:67216
+Wed Apr 17 18:37:13 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 17 18:37:13 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Wed Apr 17 18:37:13 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Wed Apr 17 18:37:13 2013
+ Begin to Compare the old and new data !
+Wed Apr 17 18:37:13 2013
+ New config.sh has been Created successfully!
+Wed Apr 17 18:37:13 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 17 21:34:39 CST 2013 Port A can be connect!
+Wed Apr 17 21:34:39 CST 2013 Port B can be connect!
+Wed Apr 17 21:34:39 CST 2013 Port C can be connect!
+Wed Apr 17 21:34:39 CST 2013 Port D can be connect!
+Wed Apr 17 21:34:39 CST 2013 Port E can be connect!
+Wed Apr 17 21:34:39 CST 2013 new.txt is not output
+Wed Apr 17 21:34:39 CST 2013 Config.sh not output
+Wed Apr 17 21:34:39 CST 2013 ipstatic.txt is not output
+Wed Apr 17 21:34:40 2013
+        The 0th port is A!
+Wed Apr 17 21:34:40 2013
+        The 1th port is B!
+Wed Apr 17 21:34:40 2013
+        The 2th port is C!
+Wed Apr 17 21:34:40 2013
+        The 3th port is D!
+Wed Apr 17 21:34:40 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 17 21:34:40 2013
+        The 0.0.0.0 is reserved Address!
+Wed Apr 17 21:34:40 2013
+        The 1.0.0.0 is reserved Address!
+Wed Apr 17 21:34:40 2013
+        The 121.18.213.224 is reserved Address!
+Wed Apr 17 21:34:40 2013
+        The 121.18.213.33 is reserved Address!
+Wed Apr 17 21:34:40 2013
+        The 211.99.216.0 is reserved Address!
+Wed Apr 17 21:34:40 2013
+        Begin to insert IP Address !
+Wed Apr 17 21:34:40 2013
+        Begin to query A's data in database!
+Wed Apr 17 21:34:40 2013
+        Begin to query B's data in database!
+Wed Apr 17 21:34:40 2013
+        Begin to query C's data in database!
+Wed Apr 17 21:34:40 2013
+        Begin to query D's data in database!
+Wed Apr 17 21:34:40 2013
+        Begin to query E's data in database!
+Wed Apr 17 21:34:40 2013
+        Begin to Coverge the IP Address !
+Wed Apr 17 21:34:40 2013
+        I have use 30.000000 seconds to coverge the list!
+Wed Apr 17 21:34:40 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Wed Apr 17 21:34:40 2013
+        Coverge success ! ,the total table is:69161
+Wed Apr 17 21:35:17 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Wed Apr 17 21:35:17 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Wed Apr 17 21:35:17 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Wed Apr 17 21:35:17 2013
+ Begin to Compare the old and new data !
+Wed Apr 17 21:35:17 2013
+ New config.sh has been Created successfully!
+Wed Apr 17 21:35:17 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 18 00:32:23 CST 2013 Port A can be connect!
+Thu Apr 18 00:32:23 CST 2013 Port B can be connect!
+Thu Apr 18 00:32:23 CST 2013 Port C can be connect!
+Thu Apr 18 00:32:23 CST 2013 Port D can be connect!
+Thu Apr 18 00:32:23 CST 2013 Port E can be connect!
+Thu Apr 18 00:32:23 CST 2013 new.txt is not output
+Thu Apr 18 00:32:23 CST 2013 Config.sh not output
+Thu Apr 18 00:32:23 CST 2013 ipstatic.txt is not output
+Thu Apr 18 00:32:24 2013
+        The 0th port is A!
+Thu Apr 18 00:32:24 2013
+        The 1th port is B!
+Thu Apr 18 00:32:24 2013
+        The 2th port is C!
+Thu Apr 18 00:32:24 2013
+        The 3th port is D!
+Thu Apr 18 00:32:24 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 18 00:32:24 2013
+        The 0.0.0.0 is reserved Address!
+Thu Apr 18 00:32:24 2013
+        The 1.0.0.0 is reserved Address!
+Thu Apr 18 00:32:24 2013
+        The 121.18.213.224 is reserved Address!
+Thu Apr 18 00:32:24 2013
+        The 121.18.213.33 is reserved Address!
+Thu Apr 18 00:32:24 2013
+        The 211.99.216.0 is reserved Address!
+Thu Apr 18 00:32:24 2013
+        Begin to insert IP Address !
+Thu Apr 18 00:32:24 2013
+        Begin to query A's data in database!
+Thu Apr 18 00:32:24 2013
+        Begin to query B's data in database!
+Thu Apr 18 00:32:24 2013
+        Begin to query C's data in database!
+Thu Apr 18 00:32:24 2013
+        Begin to query D's data in database!
+Thu Apr 18 00:32:24 2013
+        Begin to query E's data in database!
+Thu Apr 18 00:32:24 2013
+        Begin to Coverge the IP Address !
+Thu Apr 18 00:32:24 2013
+        I have use 20.000000 seconds to coverge the list!
+Thu Apr 18 00:32:24 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Thu Apr 18 00:32:24 2013
+        Coverge success ! ,the total table is:55794
+Thu Apr 18 00:32:51 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 18 00:32:51 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Thu Apr 18 00:32:51 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Thu Apr 18 00:32:51 2013
+ Begin to Compare the old and new data !
+Thu Apr 18 00:32:51 2013
+ New config.sh has been Created successfully!
+Thu Apr 18 00:32:51 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 18 03:57:48 CST 2013 Port A can be connect!
+Thu Apr 18 03:57:48 CST 2013 Port B can be connect!
+Thu Apr 18 03:57:48 CST 2013 Port C can be connect!
+Thu Apr 18 03:57:48 CST 2013 Port D can be connect!
+Thu Apr 18 03:57:48 CST 2013 Port E can be connect!
+Thu Apr 18 03:57:48 CST 2013 new.txt is not output
+Thu Apr 18 03:57:48 CST 2013 Config.sh not output
+Thu Apr 18 03:57:48 CST 2013 ipstatic.txt is not output
+Thu Apr 18 03:57:49 2013
+        The 0th port is A!
+Thu Apr 18 03:57:49 2013
+        The 1th port is B!
+Thu Apr 18 03:57:49 2013
+        The 2th port is C!
+Thu Apr 18 03:57:49 2013
+        The 3th port is D!
+Thu Apr 18 03:57:49 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 18 03:57:49 2013
+        The 0.0.0.0 is reserved Address!
+Thu Apr 18 03:57:49 2013
+        The 1.0.0.0 is reserved Address!
+Thu Apr 18 03:57:49 2013
+        The 121.18.213.224 is reserved Address!
+Thu Apr 18 03:57:49 2013
+        The 121.18.213.33 is reserved Address!
+Thu Apr 18 03:57:49 2013
+        The 211.99.216.0 is reserved Address!
+Thu Apr 18 03:57:49 2013
+        Begin to insert IP Address !
+Thu Apr 18 03:57:49 2013
+        Begin to query A's data in database!
+Thu Apr 18 03:57:49 2013
+        Begin to query B's data in database!
+Thu Apr 18 03:57:49 2013
+        Begin to query C's data in database!
+Thu Apr 18 03:57:49 2013
+        Begin to query D's data in database!
+Thu Apr 18 03:57:49 2013
+        Begin to query E's data in database!
+Thu Apr 18 03:57:49 2013
+        Begin to Coverge the IP Address !
+Thu Apr 18 03:57:49 2013
+        I have use 20.000000 seconds to coverge the list!
+Thu Apr 18 03:57:49 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Thu Apr 18 03:57:49 2013
+        Coverge success ! ,the total table is:45124
+Thu Apr 18 03:58:09 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 18 03:58:09 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Thu Apr 18 03:58:09 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Thu Apr 18 03:58:09 2013
+ Begin to Compare the old and new data !
+Thu Apr 18 03:58:09 2013
+ New config.sh has been Created successfully!
+Thu Apr 18 03:58:09 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 18 07:20:49 CST 2013 Port A can be connect!
+Thu Apr 18 07:20:49 CST 2013 Port B can be connect!
+Thu Apr 18 07:20:49 CST 2013 Port C can be connect!
+Thu Apr 18 07:20:49 CST 2013 Port D can be connect!
+Thu Apr 18 07:20:49 CST 2013 Port E can be connect!
+Thu Apr 18 07:20:49 CST 2013 new.txt is not output
+Thu Apr 18 07:20:49 CST 2013 Config.sh not output
+Thu Apr 18 07:20:49 CST 2013 ipstatic.txt is not output
+Thu Apr 18 07:20:50 2013
+        The 0th port is A!
+Thu Apr 18 07:20:50 2013
+        The 1th port is B!
+Thu Apr 18 07:20:50 2013
+        The 2th port is C!
+Thu Apr 18 07:20:50 2013
+        The 3th port is D!
+Thu Apr 18 07:20:50 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 18 07:20:50 2013
+        The 0.0.0.0 is reserved Address!
+Thu Apr 18 07:20:50 2013
+        The 1.0.0.0 is reserved Address!
+Thu Apr 18 07:20:50 2013
+        The 121.18.213.224 is reserved Address!
+Thu Apr 18 07:20:50 2013
+        The 121.18.213.33 is reserved Address!
+Thu Apr 18 07:20:50 2013
+        The 211.99.216.0 is reserved Address!
+Thu Apr 18 07:20:50 2013
+        Begin to insert IP Address !
+Thu Apr 18 07:20:50 2013
+        Begin to query A's data in database!
+Thu Apr 18 07:20:50 2013
+        Begin to query B's data in database!
+Thu Apr 18 07:20:50 2013
+        Begin to query C's data in database!
+Thu Apr 18 07:20:50 2013
+        Begin to query D's data in database!
+Thu Apr 18 07:20:50 2013
+        Begin to query E's data in database!
+Thu Apr 18 07:20:50 2013
+        Begin to Coverge the IP Address !
+Thu Apr 18 07:20:50 2013
+        I have use 20.000000 seconds to coverge the list!
+Thu Apr 18 07:20:50 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Thu Apr 18 07:20:50 2013
+        Coverge success ! ,the total table is:41116
+Thu Apr 18 07:21:08 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 18 07:21:08 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Thu Apr 18 07:21:08 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Thu Apr 18 07:21:08 2013
+ Begin to Compare the old and new data !
+Thu Apr 18 07:21:08 2013
+ New config.sh has been Created successfully!
+Thu Apr 18 07:21:08 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 18 10:09:54 CST 2013 Port A can be connect!
+Thu Apr 18 10:09:54 CST 2013 Port B can be connect!
+Thu Apr 18 10:09:54 CST 2013 Port C can be connect!
+Thu Apr 18 10:09:54 CST 2013 Port D can be connect!
+Thu Apr 18 10:09:54 CST 2013 Port E can be connect!
+Thu Apr 18 10:09:54 CST 2013 new.txt is not output
+Thu Apr 18 10:09:54 CST 2013 Config.sh not output
+Thu Apr 18 10:09:54 CST 2013 ipstatic.txt is not output
+Thu Apr 18 10:09:55 2013
+        The 0th port is A!
+Thu Apr 18 10:09:55 2013
+        The 1th port is B!
+Thu Apr 18 10:09:55 2013
+        The 2th port is C!
+Thu Apr 18 10:09:55 2013
+        The 3th port is D!
+Thu Apr 18 10:09:55 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 18 10:09:55 2013
+        The 0.0.0.0 is reserved Address!
+Thu Apr 18 10:09:55 2013
+        The 1.0.0.0 is reserved Address!
+Thu Apr 18 10:09:55 2013
+        The 121.18.213.224 is reserved Address!
+Thu Apr 18 10:09:55 2013
+        The 121.18.213.33 is reserved Address!
+Thu Apr 18 10:09:55 2013
+        The 211.99.216.0 is reserved Address!
+Thu Apr 18 10:09:55 2013
+        Begin to insert IP Address !
+Thu Apr 18 10:09:55 2013
+        Begin to query A's data in database!
+Thu Apr 18 10:09:55 2013
+        Begin to query B's data in database!
+Thu Apr 18 10:09:55 2013
+        Begin to query C's data in database!
+Thu Apr 18 10:09:55 2013
+        Begin to query D's data in database!
+Thu Apr 18 10:09:55 2013
+        Begin to query E's data in database!
+Thu Apr 18 10:09:55 2013
+        Begin to Coverge the IP Address !
+Thu Apr 18 10:09:55 2013
+        I have use 20.000000 seconds to coverge the list!
+Thu Apr 18 10:09:55 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Thu Apr 18 10:09:55 2013
+        Coverge success ! ,the total table is:52639
+Thu Apr 18 10:10:22 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 18 10:10:22 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Thu Apr 18 10:10:22 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Thu Apr 18 10:10:22 2013
+ Begin to Compare the old and new data !
+Thu Apr 18 10:10:22 2013
+ New config.sh has been Created successfully!
+Thu Apr 18 10:10:22 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 18 12:59:59 CST 2013 Port A can be connect!
+Thu Apr 18 12:59:59 CST 2013 Port B can be connect!
+Thu Apr 18 12:59:59 CST 2013 Port C can be connect!
+Thu Apr 18 12:59:59 CST 2013 Port D can be connect!
+Thu Apr 18 12:59:59 CST 2013 Port E can be connect!
+Thu Apr 18 12:59:59 CST 2013 new.txt is not output
+Thu Apr 18 12:59:59 CST 2013 Config.sh not output
+Thu Apr 18 12:59:59 CST 2013 ipstatic.txt is not output
+Thu Apr 18 13:00:00 2013
+        The 0th port is A!
+Thu Apr 18 13:00:00 2013
+        The 1th port is B!
+Thu Apr 18 13:00:00 2013
+        The 2th port is C!
+Thu Apr 18 13:00:00 2013
+        The 3th port is D!
+Thu Apr 18 13:00:00 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 18 13:00:00 2013
+        The 0.0.0.0 is reserved Address!
+Thu Apr 18 13:00:00 2013
+        The 1.0.0.0 is reserved Address!
+Thu Apr 18 13:00:00 2013
+        The 121.18.213.224 is reserved Address!
+Thu Apr 18 13:00:00 2013
+        The 121.18.213.33 is reserved Address!
+Thu Apr 18 13:00:00 2013
+        The 211.99.216.0 is reserved Address!
+Thu Apr 18 13:00:00 2013
+        Begin to insert IP Address !
+Thu Apr 18 13:00:00 2013
+        Begin to query A's data in database!
+Thu Apr 18 13:00:00 2013
+        Begin to query B's data in database!
+Thu Apr 18 13:00:00 2013
+        Begin to query C's data in database!
+Thu Apr 18 13:00:00 2013
+        Begin to query D's data in database!
+Thu Apr 18 13:00:00 2013
+        Begin to query E's data in database!
+Thu Apr 18 13:00:00 2013
+        Begin to Coverge the IP Address !
+Thu Apr 18 13:00:00 2013
+        I have use 20.000000 seconds to coverge the list!
+Thu Apr 18 13:00:00 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Thu Apr 18 13:00:00 2013
+        Coverge success ! ,the total table is:60859
+Thu Apr 18 13:00:33 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 18 13:00:33 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Thu Apr 18 13:00:33 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Thu Apr 18 13:00:33 2013
+ Begin to Compare the old and new data !
+Thu Apr 18 13:00:33 2013
+ New config.sh has been Created successfully!
+Thu Apr 18 13:00:33 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 18 15:55:13 CST 2013 Port A can be connect!
+Thu Apr 18 15:55:13 CST 2013 Port B can be connect!
+Thu Apr 18 15:55:13 CST 2013 Port C can be connect!
+Thu Apr 18 15:55:13 CST 2013 Port D can be connect!
+Thu Apr 18 15:55:13 CST 2013 Port E can be connect!
+Thu Apr 18 15:55:13 CST 2013 new.txt is not output
+Thu Apr 18 15:55:13 CST 2013 Config.sh not output
+Thu Apr 18 15:55:13 CST 2013 ipstatic.txt is not output
+Thu Apr 18 15:55:14 2013
+        The 0th port is A!
+Thu Apr 18 15:55:14 2013
+        The 1th port is B!
+Thu Apr 18 15:55:14 2013
+        The 2th port is C!
+Thu Apr 18 15:55:14 2013
+        The 3th port is D!
+Thu Apr 18 15:55:14 2013
+        The 4th port is E!
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 18 15:55:14 2013
+        The 0.0.0.0 is reserved Address!
+Thu Apr 18 15:55:14 2013
+        The 1.0.0.0 is reserved Address!
+Thu Apr 18 15:55:14 2013
+        The 121.18.213.224 is reserved Address!
+Thu Apr 18 15:55:14 2013
+        The 121.18.213.33 is reserved Address!
+Thu Apr 18 15:55:14 2013
+        The 211.99.216.0 is reserved Address!
+Thu Apr 18 15:55:14 2013
+        Begin to insert IP Address !
+Thu Apr 18 15:55:14 2013
+        Begin to query A's data in database!
+Thu Apr 18 15:55:14 2013
+        Begin to query B's data in database!
+Thu Apr 18 15:55:14 2013
+        Begin to query C's data in database!
+Thu Apr 18 15:55:14 2013
+        Begin to query D's data in database!
+Thu Apr 18 15:55:14 2013
+        Begin to query E's data in database!
+Thu Apr 18 15:55:14 2013
+        Begin to Coverge the IP Address !
+Thu Apr 18 15:55:14 2013
+        I have use 20.000000 seconds to coverge the list!
+Thu Apr 18 15:55:14 2013
+        Route tables Coverge completed and Begin to Futher Coverge !
+Thu Apr 18 15:55:14 2013
+        Coverge success ! ,the total table is:61803
+Thu Apr 18 15:55:49 CST 2013 Begin to compare
+Telnet Switch Address is  192.168.38.202
+Telnet Switch user name is wuzy
+Telnet Switch user Password is wuzy
+Thu Apr 18 15:55:49 2013
+        The A port old address  192.168.38.197 equal  new address 192.168.38.197 !
+Thu Apr 18 15:55:49 2013
+        The B port old address  192.168.38.181 equal  new address 192.168.38.181 !
+Thu Apr 18 15:55:49 2013
+ Begin to Compare the old and new data !
+Thu Apr 18 15:55:49 2013
+ New config.sh has been Created successfully!
+Thu Apr 18 15:55:49 CST 2013Rename the new.txt to Lastest.cfg
+Route Coverge has been complete successfully !
